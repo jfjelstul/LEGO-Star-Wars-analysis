@@ -6,7 +6,7 @@ LEGO strategically designs sets to optimize some combination of sales revenue an
 
 With Star Wars day coming up, let's take a look at the Star Wars theme — an enduringly popular theme with clear factions and hundreds of sets spanning over two decades. We'll use data from Brickset and data visualization to answer these questions. First, we'll select a sample of Star Wars sets to analyze. Second, we'll take a look at the minifigs that appear in these sets. And third, we'll use data visualization to explore how LEGO depicts conflict in these sets based on their minifig-inclusion strategy. 
 
-## Choosing a sample of sets
+## Star Wars sets
 
 The first thing we need to do is select a sample of sets to analyze. Brickset's database currently includes over 890 Star Wars sets, but we'll restrict our sample to what we might call standard play sets — sets that include at least one minifig and a minifig-scale build.
 
@@ -22,7 +22,7 @@ The number of minifig-scale sets has decreased over the last several years. This
 
 Since Disney acquired Lucasfilm, the timeline has expanded and the distribution of LEGO sets reflects this. LEGO has released substantially fewer sets based on the Fall of the Jedi and Age of Rebellion eras to make room in its product portfolio for sets based from The Mandalorian, The Bad Batch, and Andor.
 
-## Taking a closer look at minifigs
+## Star Wars minifigs
 
 Next, we'll take a look at the minifigs that appear in our sample of sets. Based on Brickset's definition of a minifig, our sample includes 921 unique minifigs. We'll use Brickset's tags to identify which Star Wars character each minifig depicts. These 921 minifigs capture 380 unique Star Wars characters. Many of these characters are named characters (Luke Skywalker), but some are generic characters (Clone Trooper) that could have many variants. 
 
@@ -44,7 +44,7 @@ Let's also take a closer look at the most common minifigs. Figure 4 takes the 30
 
 ![](plots/4-most-common-characters.png)
 
-Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear from cannon whether they're human or alien. There are 67 unique species of alien. The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
+Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear from cannon whether they're human or alien. There are 67 unique species of alien (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
 
 ## How LEGO depicts conflict
 
@@ -78,7 +78,7 @@ Figure 8 shows a stream plot that visualizes the over-time changes in these prop
 
 Between 2007 and 2016, there was a substantial increase in the proportion of sets that directly depict conflict by including both protagonists and antagonists. In 2022, 64 percent of sets included both protagonists and antagonists, up from 15 percent in 2007. This signals a clear shift in LEGO's minifig-inclusion strategy towards including both protagonists and antagonists in sets. We don't have set-specific sales data, but one plausible explanation for this shift is that sets with minifigs from opposing factions tend to sell better. 
 
-## A change in strategy 
+## A shift in strategy 
 
 LEGO’s minifig-inclusion strategy has changed significantly over time. There has been a dramatic increase in the proportion of sets that directly depict conflict by including protagonists and antagonists in the same set.
 

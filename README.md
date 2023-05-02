@@ -56,7 +56,7 @@ We'll start by taking the most common characters in our sample of sets and looki
 
 The characters are grouped (that's the "hierarchical" part) based on their overall portrayal in the source material. There's an edge connecting every pair of characters that appear in at least one set together. Edges that connect nodes from different groups — lines connecting a protagonist and antagonist, for example — are bundled together (the "edge bundling" part). 
 
-We're looking to see how many connections there are between protagonists and antagonists — how large that bundle of edges is. In this network, there are more edges between the protagonist and antagonist groups (113) then within the protagonist group (92) or the antagonist group (52). This indicates that LEGO's strategy dominant strategy is to include both protagonists and antagonists in Star Wars sets.
+We're looking to see how many connections there are between protagonists and antagonists — how large that bundle of edges is. In this network, there are more edges between the protagonist and antagonist groups (113) than within the protagonist group (92) or the antagonist group (52). This indicates that LEGO's strategy dominant strategy is to include both protagonists and antagonists in Star Wars sets.
 
 Next, we'll look at the data by era. Figure 6 shows a network of characters from the Age of Rebellion era. Each node in the network is a character and each edge indicates that a pair of characters appears together in at least one set. The size of each node indicates the number of sets that the character appears in. 
 

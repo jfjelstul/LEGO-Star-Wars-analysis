@@ -72,7 +72,7 @@ Figure 7 shows a similar network for the Fall of the Jedi era. The structure of 
 
 Finally, we'll look at the proportion of sets that include both protagonists and antagonists, as opposed to only protagonists or only antagonists, and how that proportion changes over time. This will allow us to identify any shifts in LEGO's minifig-inclusion strategy.
 
-Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. From 1999 to 2015, there was a steady increase in the total number of sets in our sample. As we saw in Figure 1, there has been a steep decrease in 2018 as LEGO has released more on adult-focused sets. 
+Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. From 1999 to 2015, there was a steady increase in the total number of sets in our sample. As we saw in Figure 1, there has been a steep decrease since 2018 as LEGO has released more on adult-focused sets. 
 
 ![](plots/8-conflict-in-sets-over-time.png)
 

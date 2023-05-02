@@ -1,4 +1,4 @@
-# How does LEGO depict conflict? 
+# How does LEGO depict conflict in Star Wars sets? 
 
 LEGO themes often depict conflict between factions. Some sets only include good guys, some only include bad guys, and some include both — directly depicting conflict. How LEGO distributes protagonists and antagonists across sets influences the play experience for children, especially when a child only has the opportunity to get one or two sets from a theme. If a child's sets only include protagonists or antagonists, their play experience will likely be different than if they include both. 
 

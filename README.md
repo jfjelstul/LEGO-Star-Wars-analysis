@@ -56,17 +56,17 @@ We'll start by taking the most common characters in our sample of sets and looki
 
 The characters are grouped (that's the "hierarchical" part) based on their overall portrayal in the source material. There's an edge connecting every pair of characters that appear in at least one set together. Edges that connect nodes from different groups — lines connecting a protagonist and antagonist, for example — are bundled together (the "edge bundling" part). 
 
-We're looking to see how many connections there are between protagonists and antagonists — how large that bundle of edges is. In this network, there are more edges between the protagonist and antagonist groups (113) than within the protagonist group (92) or the antagonist group (52). This indicates that LEGO's strategy dominant strategy is to include both protagonists and antagonists in Star Wars sets.
+We're looking to see how many connections there are between protagonists and antagonists — how large that bundle of edges is. In this network, there are more edges between the protagonist and antagonist groups (113) than within the protagonist group (92) or the antagonist group (52). This indicates that LEGO's dominant strategy is to include both protagonists and antagonists in Star Wars sets.
 
 Next, we'll look at the data by era. Figure 6 shows a network of characters from the Age of Rebellion era. Each node in the network is a character and each edge indicates that a pair of characters appears together in at least one set. The size of each node indicates the number of sets that the character appears in. 
 
 ![](plots/6-age-of-rebellion-network.png)
 
-This network has a clear structure. There are three main clusters. The main cluster contains characters that appear in Episodes IV through VI. A second cluster at the top includes characters from Rebels. A third cluster on the right includes characters from Rogue One and Andor. The main cluster is connected to the other two primarily through antagonists. Luke, Jyn, Cassian, and Ezra are all fighting against the Empire. 
+This network has a clear structure. There are three clusters. The main cluster contains characters that appear in Episodes IV through VI. A second cluster at the top includes characters from Rebels. A third cluster on the right includes characters from Rogue One and Andor. The main cluster is connected to the other two primarily through antagonists. Luke, Jyn, Cassian, and Ezra are all fighting against the Empire. 
 
 In the main cluster, there's a sub-cluster of protagonists at the center and a looser but still clearly visible sub-cluster of antagonists above and to the right. This is what we're most interested in. The tightness of these clusters — and of the cluster of protagonists, in particular — indicates that there are sets that only include protagonists or only include antagonists. But the fact that these two clusters are so closely connected to each other also indicates a high proportion of sets that include both protagonists and antagonists.
 
-Figure 7 shows a similar network for the Fall of the Jedi era. The structure of this network is less well-defined. The sets from this area are based more on The Clone Wars than on Episodes I through III, so there is only one main cluster. The protagonists and antagonists are also less clearly clustered. This indicates that, relative to sets from the Age of Rebellion era, sets from the Fall of the Jedi era are more likely to include both protagonists and antagonists.
+Figure 7 shows a similar network for the Fall of the Jedi era. The structure of this network is less well-defined. The sets from this area are based more on The Clone Wars than on Episodes I through III, so there's only one cluster. The protagonists and antagonists are also less clearly clustered. This indicates that, relative to sets from the Age of Rebellion era, sets from the Fall of the Jedi era are more likely to include both protagonists and antagonists.
 
 ![](plots/7-fall-of-the-jedi-network.png)
 
@@ -82,4 +82,4 @@ Between 2007 and 2016, there was a substantial increase in the proportion of set
 
 LEGO’s minifig-inclusion strategy has changed significantly over time. There has been a dramatic increase in the proportion of sets that directly depict conflict by including protagonists and antagonists in the same set.
 
-LEGO’s change in strategy affects the play experience for kids. If you're working with a limited budget, it's now easier to get minifigs from opposing factions — on average, you don't have to buy as many sets. This may be good for children who want to have both protagonists and antagonists to play with, but it also encourages a play experience that is more explicitly centered around the conflicts depicted in the source material.
+LEGO’s change in strategy affects the play experience for children. If you're working with a limited budget, it's now easier to get minifigs from opposing factions — on average, you don't have to buy as many sets. This may be good for children who want to have both protagonists and antagonists to play with, but it also encourages a play experience that is more explicitly centered around the conflicts depicted in the source material.

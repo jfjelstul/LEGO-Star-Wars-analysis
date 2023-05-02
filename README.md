@@ -10,11 +10,11 @@ With Star Wars day coming up, let's take a look at the Star Wars theme — an en
 
 The first thing we need to do is select a sample of sets to analyze. Brickset's database currently includes over 890 Star Wars sets, but we'll restrict our sample to what we might call standard play sets — sets that include at least one minifig and a minifig-scale build.
 
-We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I and IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows. We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds.
+We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I through IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows. We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds.
 
 By applying these criteria to our sample of sets, we'll exclude some entire sub-themes, including Ultimate Collector Series (UCS) sets, Technic sets, mini-scale sets, MicroFighters, and buildable figures, among others. We'll also exclude promotional sets, gifts, and product collections.
 
-There are 362 sets that meet our criteria. Figure 1 shows all of these sets by year of release, broken down by Star Wars era. Each set is a point, and the size of each point indicates the number of pieces in the set. At this year's Star Wars Celebration — a few weeks ago in London — Disney unveiled a new Star Wars timeline with nine eras. The movies and shows we're looking at come from five of these eras: Fall of the Jedi (Episodes I to III and The Clone Wars), Reign of the Empire (Solo, Obi-Wan Kenobi, The Bad Batch, Andor), Age of Rebellion (Episodes VI to IV, Rogue One, Rebels), The New Republic (The Mandalorian, The Book of Boba Fett), and Rise of the First Order (Episodes VII to IX, Resistance).
+There are 362 sets that meet our criteria. Figure 1 shows all of these sets by year of release, broken down by Star Wars era. Each set is a point, and the size of each point indicates the number of pieces in the set. At this year's Star Wars Celebration — a few weeks ago in London — Disney unveiled a new Star Wars timeline with nine eras. The movies and shows we're looking at come from five of these eras: Fall of the Jedi (Episodes I through III and The Clone Wars), Reign of the Empire (Solo, Obi-Wan Kenobi, The Bad Batch, Andor), Age of Rebellion (Episodes VI through IV, Rogue One, Rebels), The New Republic (The Mandalorian, The Book of Boba Fett), and Rise of the First Order (Episodes VII through IX, Resistance).
 
 ![](plots/1-sets-by-era.png)
 
@@ -26,7 +26,7 @@ Since Disney acquired Lucasfilm, the timeline has expanded and the distribution 
 
 Next, we'll take a look at the minifigs that appear in our sample of sets. Based on Brickset's definition of a minifig, our sample includes 921 unique minifigs. We'll use Brickset's tags to identify which Star Wars character each minifig depicts. These 921 minifigs capture 380 unique Star Wars characters. Many of these characters are named characters (Luke Skywalker), but some are generic characters (Clone Trooper) that could have many variants. 
 
-For our analysis, we'll need to code whether each character is portrayed as a protagonist, as an antagonist, or as a neutral character. We'll do this by first coding any factions that a character is affiliated with. This can be tricky because a character's faction can change over time. Boba Fett is a good example. He's an antagonist in Episodes V and VI but a protagonist in The Book of Boba Fett. We'll handle this by coding each character's factions by era. For example, Luke's faction during the Age of Resistance era would be the Rebel Alliance, and his faction during the Rise of the First Order era would be the Resistance. 
+For our analysis, we'll need to code whether each character is portrayed as a protagonist, as an antagonist, or as a neutral character. We'll do this by first coding any factions that a character is affiliated with. This can be tricky because a character's faction can change over time. Boba Fett is a good example. He's an antagonist in Episodes V and VI but a protagonist in The Book of Boba Fett. We'll handle this by coding each character's factions by era. For example, Luke's faction during the Age of Rebellion era would be the Rebel Alliance, and his faction during the Rise of the First Order era would be the Resistance. 
 
 Not all characters are clear-cut, though. We'll code a character's overall portrayal in each era. For example, we'll code Lando Calrissian as a protagonist in the Age of Rebellion era despite scenes in The Empire Strikes Back where he's depicted as an antagonist for betraying Han Solo. There's some room for disagreement in coding this variable. Check out the data if you want to see the coding for specific characters. 
 
@@ -44,7 +44,7 @@ Let's also take a closer look at the most common minifigs. Figure 4 takes the 30
 
 ![](plots/4-most-common-characters.png)
 
-Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear from cannon whether they're human or alien. There are 67 unique species of alien (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
+Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear from cannon whether they're human or alien. There are 66 unique species of alien (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
 
 ## How LEGO depicts conflict
 
@@ -66,7 +66,7 @@ This network has a clear structure. There are three main clusters. The main clus
 
 In the main cluster, there's a sub-cluster of protagonists at the center and a looser but still clearly visible sub-cluster of antagonists above and to the right. This is what we're most interested in. The tightness of these clusters — and of the cluster of protagonists, in particular — indicates that there are sets that only include protagonists or only include antagonists. But the fact that these two clusters are so closely connected to each other also indicates a high proportion of sets that include both protagonists and antagonists.
 
-Figure 7 shows a similar network for the Fall of the Jedi era. The structure of this network is less well-defined. The sets from this area are based more on The Clone Wars than on Episodes I to III, so there is only one main cluster. The protagonists and antagonists are also less clearly clustered. This indicates that, relative to sets from the Age of Rebellion era, sets from the Fall of the Jedi era are more likely to include both protagonists and antagonists.
+Figure 7 shows a similar network for the Fall of the Jedi era. The structure of this network is less well-defined. The sets from this area are based more on The Clone Wars than on Episodes I through III, so there is only one main cluster. The protagonists and antagonists are also less clearly clustered. This indicates that, relative to sets from the Age of Rebellion era, sets from the Fall of the Jedi era are more likely to include both protagonists and antagonists.
 
 ![](plots/7-fall-of-the-jedi-network.png)
 

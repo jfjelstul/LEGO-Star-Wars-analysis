@@ -10,7 +10,7 @@ It's Star Wars day, so let's take a look at the Star Wars theme — an enduringl
 
 The first thing we need to do is select a sample of sets to analyze. Brickset's database currently includes over 890 Star Wars sets, but we'll restrict our sample to what we might call standard play sets — sets that include at least one minifig and a minifig-scale build — released from 1999 through 2022.
 
-We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I through IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, and The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows (443 sets). We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds (79 sets).
+We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I through IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, and The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows (443 sets). We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds (81 sets).
 
 By applying these criteria, we'll exclude some entire sub-themes, including Ultimate Collector Series (UCS) sets, Technic sets, mini-scale sets, MicroFighters, and buildable figures, among others. We'll also exclude promotional sets, gifts, and product collections.
 
@@ -76,7 +76,7 @@ Figure 8 shows a stream plot that visualizes the over-time changes in these prop
 
 ![](plots/8-conflict-in-sets-over-time.png)
 
-Between 2007 and 2013, there was a substantial increase in the proportion of sets that directly depict conflict by including both protagonists and antagonists. In 2013, 81 percent of sets included both protagonists and antagonists, up from 15 percent in 2007. In 2022, it was 64 percent. This signals a clear shift in LEGO's minifig-inclusion strategy towards including both protagonists and antagonists in sets. We don't have set-specific sales data, but one plausible explanation for this shift is that sets with minifigs from opposing factions tend to sell better. 
+Between 2007 and 2013, there was a substantial increase in the proportion of sets that directly depict conflict by including both protagonists and antagonists. In 2013, 81 percent of sets included both protagonists and antagonists, up from 15 percent in 2007. In 2022, it was 64 percent. This signals a clear shift in LEGO's minifig-inclusion strategy towards including both protagonists and antagonists in sets. We don't have set-specific sales data, but one plausible explanation for this change is that sets with minifigs from opposing factions tend to sell better. 
 
 ## A shift in strategy 
 

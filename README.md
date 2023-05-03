@@ -72,11 +72,11 @@ Figure 7 shows a similar network for the Fall of the Jedi era. The structure of 
 
 Finally, we'll look at the proportion of sets that include both protagonists and antagonists, as opposed to only protagonists or only antagonists, and how that proportion changes over time. This will allow us to identify any shifts in LEGO's minifig-inclusion strategy.
 
-Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. From 1999 to 2015, there was a steady increase in the total number of sets in our sample. As we see in Figure 1, there has been a steep decrease since 2018 as LEGO has released more on adult-focused sets. 
+Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. Between 1999 and 2018, there was a steady increase in the total number of sets in our sample. Consistent with Figure 1, there has been a steep decrease since 2018 as LEGO has released more on adult-focused sets. 
 
 ![](plots/8-conflict-in-sets-over-time.png)
 
-Between 2007 and 2016, there was a substantial increase in the proportion of sets that directly depict conflict by including both protagonists and antagonists. In 2022, 64 percent of sets included both protagonists and antagonists, up from 15 percent in 2007. This signals a clear shift in LEGO's minifig-inclusion strategy towards including both protagonists and antagonists in sets. We don't have set-specific sales data, but one plausible explanation for this shift is that sets with minifigs from opposing factions tend to sell better. 
+Between 2007 and 2013, there was a substantial increase in the proportion of sets that directly depict conflict by including both protagonists and antagonists. In 2013, 81 percent of sets included both protagonists and antagonists, up from 15 percent in 2007. In 2022, it was 64 percent. This signals a clear shift in LEGO's minifig-inclusion strategy towards including both protagonists and antagonists in sets. We don't have set-specific sales data, but one plausible explanation for this shift is that sets with minifigs from opposing factions tend to sell better. 
 
 ## A shift in strategy 
 

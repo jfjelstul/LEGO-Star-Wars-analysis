@@ -36,7 +36,7 @@ We can visualize the relationship between sets and characters using a network. N
 
 This network has two major clusters — one for the Age of Rebellion era and one for the Fall of the Jedi era. There's a smaller cluster at the bottom right for the Rise of the First Order era and a loose cluster at the top left for the Reign of the Empire and The New Republic eras, both of which are closely tied to the Age of Rebellion era. 
 
-There's a lot going on here, so let's also visualize the characters in this network separately. Figure 3 shows all characters in our sample of sets by era and faction. The colors indicate whether each character is affiliated with the main protaginst faction in the era (the Galactic Republic, the Rebel Alliance, or the Resistance), the main antagonist faction in the era (the Confederation of Independent Systems, the Galactic Empire, or the First Order), or some other faction. The size of each circle indicates how many unique minifigs the character has.
+There's a lot going on here, so let's also visualize the characters in this network separately. Figure 3 shows all characters in our sample of sets by era and faction. The colors indicate whether each character is affiliated with the main protagonist faction in the era (the Galactic Republic, the Rebel Alliance, or the Resistance), the main antagonist faction in the era (the Confederation of Independent Systems, the Galactic Empire, or the First Order), or some other faction. The size of each circle indicates how many unique minifigs the character has.
 
 ![](plots/3-characters-by-faction-and-era.png)
 

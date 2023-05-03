@@ -4,7 +4,7 @@ LEGO themes often depict conflict between factions. Some sets only include good 
 
 LEGO strategically designs sets to optimize some combination of sales revenue and the play experience for consumers. A critical aspect of set design is which minifigs to include. So what's LEGO's strategy? How often do LEGO sets directly depict conflict by including protagonists and antagonists in the same set, as opposed to including only protagonists or only antagonists, and how has LEGO's minifig-inclusion strategy changed over time?
 
-It's Star Wars day, so let's take a look at the Star Wars theme — an enduringly popular theme with clear factions and hundreds of sets spanning over two decades. We'll use data from Brickset and data visualization to answer these questions. First, we'll select a sample of Star Wars sets to analyze. Second, we'll take a look at the minifigs that appear in these sets. And third, we'll use data visualization to explore how LEGO depicts conflict in these sets based on their minifig-inclusion strategy. 
+It's Star Wars Day, so let's take a look at the Star Wars theme — an enduringly popular theme with clear factions and hundreds of sets spanning over two decades. We'll use data from Brickset and data visualization to answer these questions. First, we'll select a sample of Star Wars sets to analyze. Second, we'll take a look at the minifigs that appear in these sets. And third, we'll use data visualization to explore how LEGO depicts conflict in these sets based on their minifig-inclusion strategy. 
 
 ## Star Wars sets
 

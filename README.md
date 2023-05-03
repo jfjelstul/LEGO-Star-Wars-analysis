@@ -8,19 +8,19 @@ It's Star Wars day, so let's take a look at the Star Wars theme — an enduringl
 
 ## Star Wars sets
 
-The first thing we need to do is select a sample of sets to analyze. Brickset's database currently includes over 890 Star Wars sets, but we'll restrict our sample to what we might call standard play sets — sets that include at least one minifig and a minifig-scale build.
+The first thing we need to do is select a sample of sets to analyze. Brickset's database currently includes over 890 Star Wars sets, but we'll restrict our sample to what we might call standard play sets — sets that include at least one minifig and a minifig-scale build — released from 1999 through 2022.
 
-We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I through IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows. We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds.
+We'll also restrict our sample to sets that are based on a Star Wars movie or TV show. For movies, we'll include Episodes I through IX, Rogue One, and Solo. For animated shows, we'll include The Clone Wars, Rebels, Resistance, and The Bad Batch. For live-action shows, we'll include The Mandalorian, The Book of Boba Fett, Obi-Wan Kenobi, and Andor. We'll use Brickset's subtheme tags to extract sets based on these movies and shows (443 sets). We'll then drop any sets that don't include any minifigs or that don't include minifig-scale builds (79 sets).
 
-By applying these criteria to our sample of sets, we'll exclude some entire sub-themes, including Ultimate Collector Series (UCS) sets, Technic sets, mini-scale sets, MicroFighters, and buildable figures, among others. We'll also exclude promotional sets, gifts, and product collections.
+By applying these criteria, we'll exclude some entire sub-themes, including Ultimate Collector Series (UCS) sets, Technic sets, mini-scale sets, MicroFighters, and buildable figures, among others. We'll also exclude promotional sets, gifts, and product collections.
 
-There are 362 sets that meet our criteria. Figure 1 shows all of these sets by year of release, broken down by Star Wars era. Each set is a point, and the size of each point indicates the number of pieces in the set. At this year's Star Wars Celebration — a few weeks ago in London — Disney unveiled a new Star Wars timeline with nine eras. The movies and shows we're looking at come from five of these eras: Fall of the Jedi (Episodes I through III and The Clone Wars), Reign of the Empire (Solo, Obi-Wan Kenobi, The Bad Batch, Andor), Age of Rebellion (Episodes VI through IV, Rogue One, Rebels), The New Republic (The Mandalorian, The Book of Boba Fett), and Rise of the First Order (Episodes VII through IX, Resistance).
+There are 362 sets that meet our criteria. Figure 1 shows all of these sets by year of release, broken down by Star Wars era. Each set is a point, and the size of each point indicates the number of pieces in the set. At this year's Star Wars Celebration — a few weeks ago in London — Disney unveiled a new Star Wars timeline with nine eras. The movies and shows we're looking at come from five of these eras: Fall of the Jedi (Episodes I through III, The Clone Wars), Reign of the Empire (Solo, Obi-Wan Kenobi, The Bad Batch, Andor), Age of Rebellion (Episodes IV through VI, Rogue One, Rebels), The New Republic (The Mandalorian, The Book of Boba Fett), and Rise of the First Order (Episodes VII through IX, Resistance).
 
 ![](plots/1-sets-by-era.png)
 
 The number of minifig-scale sets has decreased over the last several years. This is part of a new strategy by LEGO to allocate more of its Star Wars portfolio to adult-focused sets like the helmet and diorama collections. Another consequence of this strategy is a notable increase in set size since 2018.
 
-Since Disney acquired Lucasfilm, the timeline has expanded and the distribution of LEGO sets reflects this. LEGO has released substantially fewer sets based on the Fall of the Jedi and Age of Rebellion eras to make room in its product portfolio for sets based from The Mandalorian, The Bad Batch, and Andor.
+Since Disney acquired Lucasfilm, the timeline has expanded and the distribution of LEGO sets reflects this. LEGO has released substantially fewer sets based on the Fall of the Jedi and Age of Rebellion eras to make room in its product portfolio for sets based on The Mandalorian, The Bad Batch, and Andor.
 
 ## Star Wars minifigs
 
@@ -28,7 +28,7 @@ Next, we'll take a look at the minifigs that appear in our sample of sets. Based
 
 For our analysis, we'll need to code whether each character is portrayed as a protagonist, as an antagonist, or as a neutral character. We'll do this by first coding any factions that a character is affiliated with. This can be tricky because a character's faction can change over time. Boba Fett is a good example. He's an antagonist in Episodes V and VI but a protagonist in The Book of Boba Fett. We'll handle this by coding each character's factions by era. For example, Luke's faction during the Age of Rebellion era would be the Rebel Alliance, and his faction during the Rise of the First Order era would be the Resistance. 
 
-Not all characters are clear-cut, though. We'll code a character's overall portrayal in each era. For example, we'll code Lando Calrissian as a protagonist in the Age of Rebellion era despite scenes in The Empire Strikes Back where he's depicted as an antagonist for betraying Han Solo. There's some room for disagreement in coding this variable. Check out the data if you want to see the coding for specific characters. 
+Not all characters are clear-cut, though. We'll code a character's overall portrayal in each era. For example, we'll code Lando Calrissian as a protagonist in the Age of Rebellion era despite scenes in The Empire Strikes Back where he's depicted as an antagonist for betraying Han Solo. There's some room for disagreement in coding this variable. You can check out the data if you want to see the coding for specific characters. 
 
 We can visualize the relationship between sets and characters using a network. Networks consist of nodes and edges, which connect nodes together. Figure 2 shows a network with two different types of nodes — the squares are sets and the circles are characters. There's an edge between each character and every set that character appears in. Characters aren't connected directly to each other by edges, but they are connected indirectly through the sets they appear in together. The size of the each circle indicates how many unique minifigs the character has. The color of the circle indicates whether the character is portrayed as a protagonist, as an antagonist, as a mix of both (depending on the era), or as a neutral character.
 
@@ -44,7 +44,7 @@ Let's also take a closer look at the most common minifigs. Figure 4 takes the 30
 
 ![](plots/4-most-common-characters.png)
 
-Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear from cannon whether they're human or alien. There are 66 unique species of alien (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
+Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear whether they're human or alien. There are 66 unique species of aliens (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
 
 ## How LEGO depicts conflict
 

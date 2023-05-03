@@ -44,7 +44,7 @@ Let's also take a closer look at the most common minifigs. Figure 4 takes the 30
 
 ![](plots/4-most-common-characters.png)
 
-Of the 380 unique characters in our sample, 187 are human, 106 are aliens, 77 are droids, and 10 are humanoid, but it's unclear whether they're human or alien. There are 66 unique species of aliens (some species are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4). 
+Of the 380 unique characters in our sample, 187 are human, 106 are aliens, and 77 are droids. For 10 characters, it’s unclear whether the character is human or alien. There are 66 unique named species of aliens (the names of some species, like Yoda’s, are unknown). The most common species are Zabraks (6), Ewoks (5), Weequay (5), Geonosians (4), Mon Calamari (4), Twi'leks (4), and Wookiees (4).
 
 ## How LEGO depicts conflict
 
@@ -72,7 +72,7 @@ Figure 7 shows a similar network for the Fall of the Jedi era. The structure of 
 
 Finally, we'll look at the proportion of sets that include both protagonists and antagonists, as opposed to only protagonists or only antagonists, and how that proportion changes over time. This will allow us to identify any shifts in LEGO's minifig-inclusion strategy.
 
-Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. Between 1999 and 2018, there was a steady increase in the total number of sets in our sample. Consistent with Figure 1, there has been a steep decrease since 2018 as LEGO has released more on adult-focused sets. 
+Figure 8 shows a stream plot that visualizes the over-time changes in these proportions. The width of the stream indicates the total number of sets released in each year. Between 1999 and 2018, there was a steady increase in the total number of sets in our sample. Consistent with Figure 1, there has been a steep decrease since 2018 as LEGO has released more adult-focused sets. 
 
 ![](plots/8-conflict-in-sets-over-time.png)
 

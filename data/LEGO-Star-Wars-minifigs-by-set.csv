@@ -1,4 +1,41 @@
-set_id,set_name,year,count_pieces,era,minifig_id,minifig_name,factions,portrayal
+set_id,set_name,year,count_pieces,era,minifig_id,character,factions,portrayal
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0004,Darth Vader,"Sith Order, Galactic Empire",antagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0036,Stormtrooper,Galactic Empire,antagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0045,Han Solo,Rebel Alliance,protagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0103,Luke Skywalker,Rebel Alliance,protagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0104,Princess Leia,Rebel Alliance,protagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0105,Lando Calrissian,Rebel Alliance,protagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0107,Boba Fett,Galactic Empire,antagonist
+10123-1,Cloud City,2003,698,Age of Rebellion,SW0984,Han Solo,Rebel Alliance,protagonist
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0010,C-3PO,Rebel Alliance,protagonist
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0028,R2-D2,Rebel Alliance,protagonist
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0073,Gonk Droid,none,neutral
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0140,Owen Lars,none,protagonist
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0141,Jawa,none,neutral
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0142,R5-D4,none,neutral
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0145,ASP Droid,none,neutral
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0146,Treadwell Droid,none,neutral
+10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0147,R1-G4,none,neutral
+10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0090,Luke Skywalker,Rebel Alliance,protagonist
+10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0177,AT-AT Driver,Galactic Empire,antagonist
+10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0178,General Veers,Galactic Empire,antagonist
+10195-1,Republic Dropship with AT-OT Walker,2009,1758,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
+10195-1,Republic Dropship with AT-OT Walker,2009,1758,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
+10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0175,Princess Leia,Rebel Alliance,protagonist
+10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0187,Rebel Fleet Trooper,Rebel Alliance,protagonist
+10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
+10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0256,Captain Antilles,Rebel Alliance,protagonist
+30004-1,Battle Droid on STAP,2009,28,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+30005-1,Imperial Speeder Bike,2009,33,Age of Rebellion,SW0188,Stormtrooper,Galactic Empire,antagonist
+30006-1,Clone Walker,2009,31,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+30058-1,STAP,2012,24,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1186,Hoth Rebel Trooper,Rebel Alliance,protagonist
+40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1187,Hoth Rebel Trooper,Rebel Alliance,protagonist
+40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1188,Hoth Rebel Trooper,Rebel Alliance,protagonist
+40558-1,Clone Trooper Command Station,2022,66,Fall of the Jedi,SW1146,Clone Trooper Commander,Galactic Republic,protagonist
+40558-1,Clone Trooper Command Station,2022,66,Fall of the Jedi,SW1189,Clone Trooper,Galactic Republic,protagonist
 4475-1,Jabba's Message,2003,44,Age of Rebellion,SW0010,C-3PO,Rebel Alliance,protagonist
 4475-1,Jabba's Message,2003,44,Age of Rebellion,SW0028,R2-D2,Rebel Alliance,protagonist
 4475-1,Jabba's Message,2003,44,Age of Rebellion,SW0076,Bib Fortuna,Hutt Clan,antagonist
@@ -223,357 +260,6 @@ set_id,set_name,year,count_pieces,era,minifig_id,minifig_name,factions,portrayal
 7283-1,Ultimate Space Battle,2005,567,Fall of the Jedi,SW0120,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
 7283-1,Ultimate Space Battle,2005,567,Fall of the Jedi,SW0136,Buzz Droid,Confederation of Independent Systems,antagonist
 7283-1,Ultimate Space Battle,2005,567,Fall of the Jedi,SW0152,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7654-1,Droids Battle Pack,2007,102,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7654-1,Droids Battle Pack,2007,102,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
-7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0091,Clone Trooper,Galactic Republic,protagonist
-7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0126,Clone Trooper,Galactic Republic,protagonist
-7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0128,Clone Trooper,Galactic Republic,protagonist
-7656-1,General Grievous Starfighter,2007,232,Fall of the Jedi,SW0134,General Grievous,Confederation of Independent Systems,antagonist
-7657-1,AT-ST,2007,244,Age of Rebellion,SW0093,AT-ST Driver,Galactic Empire,antagonist
-7658-1,Y-wing Fighter,2007,454,Age of Rebellion,SW0029,R5-D4,none,neutral
-7658-1,Y-wing Fighter,2007,454,Age of Rebellion,SW0094,Jon Vander,Rebel Alliance,protagonist
-7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0035,TIE Fighter Pilot,Galactic Empire,antagonist
-7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0036,Stormtrooper,Galactic Empire,antagonist
-7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0109,Sandtrooper,Galactic Empire,antagonist
-7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
-7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0159,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0160,Naboo Fighter Pilot,Royal House of Naboo,protagonist
-7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,575,Fall of the Jedi,SW0162,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,575,Fall of the Jedi,SW0163,Kit Fisto,"Jedi Order, Galactic Republic",protagonist
-7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0095,Battle Droid Pilot,Confederation of Independent Systems,antagonist
-7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0096,Battle Droid Security,Confederation of Independent Systems,antagonist
-7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0164,Droideka,Confederation of Independent Systems,antagonist
-7663-1,Sith Infiltrator,2007,310,Fall of the Jedi,SW0003,Darth Maul,"Sith Order, Shadow Collective",antagonist
-7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0168,R2-R7,Galactic Republic,protagonist
-7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0169,Maoi Madakor,Galactic Republic,protagonist
-7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0170,Antidar Williams,Galactic Republic,protagonist
-7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0172,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
-7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0173,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0012,Dak Ralter,Rebel Alliance,protagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0090,Luke Skywalker,Rebel Alliance,protagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0165,K-3PO,Rebel Alliance,protagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0167,Hoth Rebel Trooper,Rebel Alliance,protagonist
-7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0171,Imperial Probe Droid,Galactic Empire,antagonist
-7669-1,Anakin's Jedi Starfighter,2008,153,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
-7669-1,Anakin's Jedi Starfighter,2008,153,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
-7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0184,Battle Droid Commander,Confederation of Independent Systems,antagonist
-7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0964,Dwarf Spider Droid,Confederation of Independent Systems,antagonist
-7671-1,AT-AP Walker,2008,392,Fall of the Jedi,SW0189,Clone Trooper,Galactic Republic,protagonist
-7673-1,Magna Guard Starfighter,2008,431,Fall of the Jedi,SW0190,Magnaguard,Confederation of Independent Systems,antagonist
-7674-1,V-19 Torrent,2008,471,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0193,Rotta,none,neutral
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0194,Captain Rex,Galactic Republic,protagonist
-7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0195,Asajj Ventress,"Nightsisters, Sith Order, Confederation of Independent Systems",antagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0196,Commander Cody,Galactic Republic,protagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0198,Plo Koon,"Jedi Order, Galactic Republic",protagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0200,Clone Trooper,Galactic Republic,protagonist
-7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0311,Spy Droid,Galactic Republic,protagonist
-7678-1,Droid Gunship,2008,329,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7678-1,Droid Gunship,2008,329,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7679-1,Republic Fighter Tank,2008,592,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-7679-1,Republic Fighter Tank,2008,592,Fall of the Jedi,SW0203,Clone Trooper,Galactic Republic,protagonist
-7680-1,The Twilight,2008,882,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
-7680-1,The Twilight,2008,882,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7680-1,The Twilight,2008,882,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
-7680-1,The Twilight,2008,882,Fall of the Jedi,SW0193,Rotta,none,neutral
-7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
-7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0184,Battle Droid Commander,Confederation of Independent Systems,antagonist
-7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0202,Commander Fox,Galactic Republic,protagonist
-7748-1,Corporate Alliance Tank Droid,2009,216,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7748-1,Corporate Alliance Tank Droid,2009,216,Fall of the Jedi,SW0233,Clone Trooper,Galactic Republic,protagonist
-7749-1,Echo Base,2009,155,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-7749-1,Echo Base,2009,155,Age of Rebellion,SW0252,Hoth Rebel Trooper,Rebel Alliance,protagonist
-7749-1,Echo Base,2009,155,Age of Rebellion,SW0253,Han Solo,Rebel Alliance,protagonist
-7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0136,Buzz Droid,Confederation of Independent Systems,antagonist
-7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
-7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0231,R7-A7,Galactic Republic,protagonist
-7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0190,Magnaguard,Confederation of Independent Systems,antagonist
-7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0224,Count Dooku,"Sith Order, Confederation of Independent Systems",antagonist
-7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0225,FA-4 Pilot Droid,Confederation of Independent Systems,antagonist
-7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0245,Turk Falso,Ohnaka Gang,antagonist
-7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0246,Hondo Ohnaka,Ohnaka Gang,antagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0031,Rebel Pilot,Rebel Alliance,protagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0247,Admiral Ackbar,Rebel Alliance,protagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0248,Mon Calamari Officer,Rebel Alliance,protagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0249,Mon Mothma,Rebel Alliance,protagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0250,Crix Madine,Rebel Alliance,protagonist
-7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0251,Lando Calrissian,Rebel Alliance,protagonist
-7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0220,Mace Windu,"Jedi Order, Galactic Republic",protagonist
-7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0312,TX-20,Confederation of Independent Systems,antagonist
-7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0313,R8-B7,Galactic Republic,protagonist
-7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0230,Super Battle Droid,Confederation of Independent Systems,antagonist
-7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0310,Luminara Unduli,"Jedi Order, Galactic Republic",protagonist
-7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0314,Captain Rex,Galactic Republic,protagonist
-7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0217,R2-D2,Galactic Republic,protagonist
-7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0340,Naboo Fighter Pilot,Royal House of Naboo,protagonist
-7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0347,Battle Droid Security,Confederation of Independent Systems,antagonist
-7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0348,Droideka,Confederation of Independent Systems,antagonist
-7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0349,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0342,Luke Skywalker,Rebel Alliance,protagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0343,Han Solo,Rebel Alliance,protagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0344,R-3PO,Rebel Alliance,protagonist
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0345,2-1B,Rebel Alliance,neutral
-7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0346,Princess Leia,Rebel Alliance,protagonist
-7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0297,Clone Trooper,Galactic Republic,protagonist
-7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0298,Clone Trooper,Galactic Republic,protagonist
-7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0299,Clone Trooper,Galactic Republic,protagonist
-7914-1,Mandalorian Battle Pack,2011,68,Fall of the Jedi,SW0296,Mandalorian Warrior,"Death Watch, Shadow Collective",antagonist
-7915-1,Imperial V-wing Starfighter,2011,139,Fall of the Jedi,SW0303,R2-Q2,Galactic Empire,antagonist
-7915-1,Imperial V-wing Starfighter,2011,139,Fall of the Jedi,SW0304,Imperial V-Wing Pilot,Galactic Empire,antagonist
-7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0300,Battle Droid Pilot,Confederation of Independent Systems,antagonist
-7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0301,Jar-Jar Binks,Gungan Grand Army,protagonist
-7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0302,Gungan Warrior,Gungan Grand Army,protagonist
-7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
-7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0305,Sugi,Aurra Sing's Crew,antagonist
-7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0306,Aurra Sing,Aurra Sing's Crew,antagonist
-7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0307,Embo,Aurra Sing's Crew,antagonist
-7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0308,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
-7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0309,Shaak Ti,"Jedi Order, Galactic Republic",protagonist
-7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
-7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0338,Logray,Ewoks,protagonist
-7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0339,Tokkat,Ewoks,protagonist
-7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0316,Savage Opress,"Nightbrothers, Sith Order, Confederation of Independent Systems, Shadow Collective",antagonist
-7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0317,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0318,Asajj Ventress,"Nightsisters, Sith Order, Confederation of Independent Systems",antagonist
-7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0319,Ki-Adi-Mundi,"Jedi Order, Galactic Republic",protagonist
-7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0320,Geonosian,"Geonosians, Confederation of Independent Systems",antagonist
-7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0341,Commander Cody,Galactic Republic,protagonist
-7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0321,Captain Panaka,Royal House of Naboo,protagonist
-7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0322,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
-7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0323,Darth Maul,"Sith Order, Shadow Collective",antagonist
-7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0324,Padmé Amidala,Galactic Republic,protagonist
-7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0325,Watto,none,neutral
-7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0326,Sebulba,none,antagonist
-7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0327,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0328,Wald,none,neutral
-7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0329,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0219,Yoda,"Jedi Order, Galactic Republic",protagonist
-7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0330,Commander Wolffe,Galactic Republic,protagonist
-7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0331,Clone Trooper,Galactic Republic,protagonist
-7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0332,Eeth Koth,"Jedi Order, Galactic Republic",protagonist
-7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0333,Quinlan Vos,"Jedi Order, Galactic Republic",protagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0277,Darth Vader,"Sith Order, Galactic Empire",antagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0334,Han Solo,Rebel Alliance,protagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0335,Luke Skywalker,Rebel Alliance,protagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0336,Obi-Wan Kenobi,Rebel Alliance,protagonist
-7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0337,Princess Leia,Rebel Alliance,protagonist
-8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0221,Clone Trooper,Galactic Republic,protagonist
-8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0223,Clone Trooper Commander,Galactic Republic,protagonist
-8015-1,Assassin Droids Battle Pack,2009,94,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
-8015-1,Assassin Droids Battle Pack,2009,94,Fall of the Jedi,SW0229,Assassin Droid,Confederation of Independent Systems,antagonist
-8016-1,Hyena Droid Bomber,2009,232,Fall of the Jedi,SW0228,Battle Droid,Confederation of Independent Systems,antagonist
-8017-1,Darth Vader's TIE Fighter,2009,251,Age of Rebellion,SW0209,Darth Vader,"Sith Order, Galactic Empire",antagonist
-8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0219,Yoda,"Jedi Order, Galactic Republic",protagonist
-8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0230,Super Battle Droid,Confederation of Independent Systems,antagonist
-8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
-8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0220,Mace Windu,"Jedi Order, Galactic Republic",protagonist
-8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0095,Battle Droid Pilot,Confederation of Independent Systems,antagonist
-8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0241,Onaconda Farr,"Confederation of Independent Systems, Galactic Republic",antagonist
-8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0242,Nute Gunray,"Trade Federation, Confederation of Independent Systems",antagonist
-8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
-8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0255,R2-D2,Galactic Republic,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0179,Han Solo,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0208,Imperial Trooper,Galactic Empire,antagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0235,Princess Leia,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0236,Chief Chirpa,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0237,Wicket W. Warrick,Ewoks,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0238,Paploo,Ewoks,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0239,Endor Rebel Trooper,Rebel Alliance,protagonist
-8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0240,Endor Rebel Trooper,Rebel Alliance,protagonist
-8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
-8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0221,Clone Trooper,Galactic Republic,protagonist
-8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0243,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
-8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0244,Senate Commando,Galactic Republic,protagonist
-8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0258,Hoth Rebel Trooper,Rebel Alliance,protagonist
-8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0259,Hoth Rebel Trooper,Rebel Alliance,protagonist
-8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0260,Zev Senesca,Rebel Alliance,protagonist
-8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0261,Imperial Officer,Galactic Empire,antagonist
-8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0262,AT-AT Driver,Galactic Empire,antagonist
-8085-1,Freeco Speeder,2010,177,Fall of the Jedi,SW0263,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-8085-1,Freeco Speeder,2010,177,Fall of the Jedi,SW0264,Thi-Sen,none,neutral
-8086-1,Droid Tri-Fighter,2010,268,Fall of the Jedi,SW0227,Battle Droid Commander,Confederation of Independent Systems,antagonist
-8086-1,Droid Tri-Fighter,2010,268,Fall of the Jedi,SW0228,Battle Droid,Confederation of Independent Systems,antagonist
-8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0163,Kit Fisto,"Jedi Order, Galactic Republic",protagonist
-8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0265,Captain Jag,Galactic Republic,protagonist
-8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0266,Clone Pilot,Galactic Republic,protagonist
-8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0267,R4-P44,Galactic Republic,protagonist
-8089-1,Hoth Wampa Cave,2010,297,Age of Rebellion,SW0098,Luke Skywalker,Rebel Alliance,protagonist
-8089-1,Hoth Wampa Cave,2010,297,Age of Rebellion,SW0260,Zev Senesca,Rebel Alliance,protagonist
-8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
-8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0269,Barriss Offee,"Galactic Republic, Jedi",protagonist
-8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0272,Clone Trooper,Galactic Republic,protagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0270,Sentry Droid,Galactic Empire,antagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0271,Sandtrooper,Galactic Empire,antagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0273,Luke Skywalker,Rebel Alliance,protagonist
-8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0274,Obi-Wan Kenobi,Rebel Alliance,protagonist
-8093-1,Plo Koon's Jedi Starfighter,2010,175,Fall of the Jedi,SW0119,R7-D4,Galactic Republic,protagonist
-8093-1,Plo Koon's Jedi Starfighter,2010,175,Fall of the Jedi,SW0198,Plo Koon,"Jedi Order, Galactic Republic",protagonist
-8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0216,EV-A4-D,Confederation of Independent Systems,neutral
-8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0226,Nahdar Vebb,"Jedi Order, Galactic Republic",protagonist
-8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0254,General Grievous,Confederation of Independent Systems,antagonist
-8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0210,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
-8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0281,Clone Pilot,Galactic Republic,protagonist
-8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0282,2-1B,Galactic Republic,neutral
-8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0283,Darth Vader,"Sith Order, Galactic Republic, Galactic Empire",antagonist
-8097-1,Slave I,2010,573,Age of Rebellion,SW0278,Han Solo,Rebel Alliance,protagonist
-8097-1,Slave I,2010,573,Age of Rebellion,SW0279,Boba Fett,Galactic Empire,antagonist
-8097-1,Slave I,2010,573,Age of Rebellion,SW0280,Bossk,Galactic Empire,antagonist
-8097-1,Slave I,2010,573,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0200,Clone Trooper,Galactic Republic,protagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0284,Aayla Secura,"Jedi Order, Galactic Republic",protagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0285,Cad Bane,Cad Bane's Crew,antagonist
-8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0286,Clone Trooper Commander,Galactic Republic,protagonist
-8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
-8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0244,Senate Commando,Galactic Republic,protagonist
-8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0285,Cad Bane,Cad Bane's Crew,antagonist
-8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0287,Shahan Alama,Cad Bane's Crew,antagonist
-8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0288,Captain Jayfon,Galactic Republic,protagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0262,AT-AT Driver,Galactic Empire,antagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0289,General Veers,Galactic Empire,antagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0290,Han Solo,Rebel Alliance,protagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0291,Hoth Rebel Trooper,Rebel Alliance,protagonist
-8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0295,Luke Skywalker,Rebel Alliance,protagonist
-9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0359,Commando Droid,Confederation of Independent Systems,antagonist
-9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0377,Clone Trooper,Galactic Republic,protagonist
-9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0378,Clone Trooper,Galactic Republic,protagonist
-9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
-9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0366,Stormtrooper,Galactic Empire,antagonist
-9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0367,Endor Rebel Trooper,Rebel Alliance,protagonist
-9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0368,Endor Rebel Trooper,Rebel Alliance,protagonist
-9490-1,Droid Escape,2012,137,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
-9490-1,Droid Escape,2012,137,Age of Rebellion,SW0364,Sandtrooper,Galactic Empire,antagonist
-9490-1,Droid Escape,2012,137,Age of Rebellion,SW0365,C-3PO,Rebel Alliance,protagonist
-9490-1,Droid Escape,2012,137,Age of Rebellion,SW0383,Sandtrooper,Galactic Empire,antagonist
-9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0379,Barriss Offee,"Galactic Republic, Jedi",protagonist
-9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0380,Commander Gree,Galactic Republic,protagonist
-9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0381,Geonosian Warrior,"Geonosians, Confederation of Independent Systems",antagonist
-9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0382,Geonosian Zombie,"Geonosians, Confederation of Independent Systems",antagonist
-9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0268,TIE Fighter Pilot,Galactic Empire,antagonist
-9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0374,Death Star Trooper,Galactic Empire,antagonist
-9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0375,R5-J2,Galactic Empire,antagonist
-9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0376,Imperial Officer,Galactic Empire,antagonist
-9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
-9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0295,Luke Skywalker,Rebel Alliance,protagonist
-9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0372,Jek Porkins,Rebel Alliance,protagonist
-9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0373,R5-D8,Rebel Alliance,protagonist
-9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0096,Battle Droid Security,Confederation of Independent Systems,antagonist
-9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0217,R2-D2,Galactic Republic,protagonist
-9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0361,Darth Vader,"Sith Order, Galactic Republic, Galactic Empire",antagonist
-9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0362,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0363,Nute Gunray,"Trade Federation, Confederation of Independent Systems",antagonist
-9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0369,Jon Vander,Rebel Alliance,protagonist
-9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0370,R5-F7,Rebel Alliance,protagonist
-9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0371,Princess Leia,Rebel Alliance,protagonist
-9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0395,Luke Skywalker,Rebel Alliance,protagonist
-9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0396,Boba Fett,Galactic Empire,antagonist
-9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0397,Kithaba,Hutt Clan,antagonist
-9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0398,Lando Calrissian,Rebel Alliance,protagonist
-9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0308,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
-9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0392,Even Piell,"Jedi Order, Galactic Republic",protagonist
-9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0393,R3-D5,Galactic Republic,protagonist
-9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0301,Jar-Jar Binks,Gungan Grand Army,protagonist
-9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0387,Padmé Amidala,Galactic Republic,protagonist
-9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0409,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0410,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0224,Count Dooku,"Sith Order, Confederation of Independent Systems",antagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0254,General Grievous,Confederation of Independent Systems,antagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0411,Padmé Amidala,Galactic Republic,protagonist
-9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0415,Battle Droid Commander,Confederation of Independent Systems,antagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0402,Jabba the Hutt,Hutt Clan,antagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0403,Han Solo,Rebel Alliance,protagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0404,Bib Fortuna,Hutt Clan,antagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0405,Gamorrean Guard,Hutt Clan,antagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0406,Oola,Hutt Clan,neutral
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0407,Princess Leia,Rebel Alliance,protagonist
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0408,Salacious B. Crumb,Hutt Clan,neutral
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0412,B'Omarr Monk,Hutt Clan,neutral
-9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
-9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
-9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0296,Mandalorian Warrior,"Death Watch, Shadow Collective",antagonist
-9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0416,Pre Vizsla,"Death Watch, Shadow Collective",antagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0417,Mace Windu,"Jedi Order, Galactic Republic",protagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0418,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0419,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0420,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0421,Agen Kolar,"Jedi Order, Galactic Republic",protagonist
-9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0422,Kit Fisto,"Jedi Order, Galactic Republic",protagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0004,Darth Vader,"Sith Order, Galactic Empire",antagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0036,Stormtrooper,Galactic Empire,antagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0045,Han Solo,Rebel Alliance,protagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0103,Luke Skywalker,Rebel Alliance,protagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0104,Princess Leia,Rebel Alliance,protagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0105,Lando Calrissian,Rebel Alliance,protagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0107,Boba Fett,Galactic Empire,antagonist
-10123-1,Cloud City,2003,698,Age of Rebellion,SW0984,Han Solo,Rebel Alliance,protagonist
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0010,C-3PO,Rebel Alliance,protagonist
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0028,R2-D2,Rebel Alliance,protagonist
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0073,Gonk Droid,none,neutral
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0140,Owen Lars,none,protagonist
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0141,Jawa,none,neutral
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0142,R5-D4,none,neutral
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0145,ASP Droid,none,neutral
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0146,Treadwell Droid,none,neutral
-10144-1,Sandcrawler,2005,1669,Age of Rebellion,SW0147,R1-G4,none,neutral
-10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0090,Luke Skywalker,Rebel Alliance,protagonist
-10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
-10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0177,AT-AT Driver,Galactic Empire,antagonist
-10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion,SW0178,General Veers,Galactic Empire,antagonist
-10195-1,Republic Dropship with AT-OT Walker,2009,1758,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
-10195-1,Republic Dropship with AT-OT Walker,2009,1758,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
-10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0175,Princess Leia,Rebel Alliance,protagonist
-10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0187,Rebel Fleet Trooper,Rebel Alliance,protagonist
-10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
-10198-1,Tantive IV,2009,1408,Age of Rebellion,SW0256,Captain Antilles,Rebel Alliance,protagonist
-30004-1,Battle Droid on STAP,2009,28,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-30005-1,Imperial Speeder Bike,2009,33,Age of Rebellion,SW0188,Stormtrooper,Galactic Empire,antagonist
-30006-1,Clone Walker,2009,31,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
-30058-1,STAP,2012,24,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
-40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1186,Hoth Rebel Trooper,Rebel Alliance,protagonist
-40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1187,Hoth Rebel Trooper,Rebel Alliance,protagonist
-40557-1,Defense of Hoth,2022,64,Age of Rebellion,SW1188,Hoth Rebel Trooper,Rebel Alliance,protagonist
-40558-1,Clone Trooper Command Station,2022,66,Fall of the Jedi,SW1146,Clone Trooper Commander,Galactic Republic,protagonist
-40558-1,Clone Trooper Command Station,2022,66,Fall of the Jedi,SW1189,Clone Trooper,Galactic Republic,protagonist
 75000-1,Clone Troopers vs. Droidekas,2013,124,Fall of the Jedi,SW0438,Clone Trooper Sergeant,Galactic Republic,protagonist
 75000-1,Clone Troopers vs. Droidekas,2013,124,Fall of the Jedi,SW0441,Droideka,Confederation of Independent Systems,antagonist
 75000-1,Clone Troopers vs. Droidekas,2013,124,Fall of the Jedi,SW0442,Clone Trooper,Galactic Republic,protagonist
@@ -1057,6 +743,25 @@ set_id,set_name,year,count_pieces,era,minifig_id,minifig_name,factions,portrayal
 75221-1,Imperial Landing Craft,2018,636,Age of Rebellion,SW0802,Imperial Shuttle Pilot,Galactic Empire,antagonist
 75221-1,Imperial Landing Craft,2018,636,Age of Rebellion,SW0960,Sandtrooper,Galactic Empire,antagonist
 75221-1,Imperial Landing Craft,2018,636,Age of Rebellion,SW0961,Sandtrooper,Galactic Empire,antagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0527,R2-D2,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0532,Chewbacca,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0585,Stormtrooper,Galactic Empire,antagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0636,Darth Vader,"Sith Order, Galactic Empire",antagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0700,C-3PO,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0762,Bespin Guard,Cloud City,neutral
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0823,Han Solo,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0831,IG-88,Galactic Empire,antagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0958,Princess Leia,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0969,Cloud Car Pilot,Cloud City,neutral
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0970,Ugnaught,none,neutral
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0971,Luke Skywalker,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0972,Princess Leia,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0973,Lando Calrissian,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0974,Lobot,Cloud City,neutral
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0975,Bespin Guard,Cloud City,neutral
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0976,Han Solo,Rebel Alliance,protagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0977,Boba Fett,Galactic Empire,antagonist
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
 75225-1,Elite Praetorian Guard Battle Pack,2019,109,Rise of the First Order,SW0905,First Order Stormtrooper,First Order,antagonist
 75225-1,Elite Praetorian Guard Battle Pack,2019,109,Rise of the First Order,SW0989,Elite Praetorian Guard,First Order,antagonist
 75225-1,Elite Praetorian Guard Battle Pack,2019,109,Rise of the First Order,SW0990,Elite Praetorian Guard,First Order,antagonist
@@ -1177,6 +882,25 @@ set_id,set_name,year,count_pieces,era,minifig_id,minifig_name,factions,portrayal
 75288-1,AT-AT,2020,1267,Age of Rebellion,SW1103,Snowtrooper,Galactic Empire,antagonist
 75288-1,AT-AT,2020,1267,Age of Rebellion,SW1104,AT-AT Driver,Galactic Empire,antagonist
 75288-1,AT-AT,2020,1267,Age of Rebellion,SW1105,AT-AT Driver,Galactic Empire,antagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0532,Chewbacca,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0554,Bith Musician,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0700,C-3PO,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0771,Han Solo,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0778,Luke Skywalker,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0893,Wuher,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0897,Jawa,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0898,Greedo,Hutt Clan,antagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1046,Obi-Wan Kenobi,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1085,R2-D2,Rebel Alliance,protagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1124,Ponda Baba,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1125,Cornelius Evazan,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1126,Labria,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1127,Garindan,Galactic Empire,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1128,Momaw Nadon,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1129,Kabe,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1130,Hrchek Kal Fas,none,neutral
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1131,Sandtrooper,Galactic Empire,antagonist
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1132,Sandtrooper,Galactic Empire,antagonist
 75291-1,Death Star Final Duel,2020,775,Age of Rebellion,SW0521,Royal Guard,Galactic Empire,antagonist
 75291-1,Death Star Final Duel,2020,775,Age of Rebellion,SW0635,Luke Skywalker,Rebel Alliance,protagonist
 75291-1,Death Star Final Duel,2020,775,Age of Rebellion,SW1106,Darth Vader,"Sith Order, Galactic Empire",antagonist
@@ -1276,48 +1000,317 @@ set_id,set_name,year,count_pieces,era,minifig_id,minifig_name,factions,portrayal
 75342-1,Republic Fighter Tank,2022,262,Fall of the Jedi,SW1205,Mace Windu,"Jedi Order, Galactic Republic",protagonist
 75342-1,Republic Fighter Tank,2022,262,Fall of the Jedi,SW1206,187th Legion Clone Commander,Galactic Empire,protagonist
 75342-1,Republic Fighter Tank,2022,262,Fall of the Jedi,SW1207,Clone Trooper,Galactic Republic,protagonist
-75345-1,501st Clone Troopers Battle Pack,2023,119,Fall of the Jedi,SW1246,Clone Trooper Officer,Galactic Republic,protagonist
-75345-1,501st Clone Troopers Battle Pack,2023,119,Fall of the Jedi,SW1247,Clone Heavy Trooper,Galactic Republic,protagonist
-75345-1,501st Clone Troopers Battle Pack,2023,119,Fall of the Jedi,SW1248,Clone Trooper Specialist,Galactic Republic,protagonist
-75347-1,TIE Bomber,2023,625,Age of Rebellion,SW1249,Darth Vader,"Sith Order, Galactic Empire",antagonist
-75347-1,TIE Bomber,2023,625,Age of Rebellion,SW1250,Vice Admiral Rae Sloane,Galactic Empire,antagonist
-75347-1,TIE Bomber,2023,625,Age of Rebellion,SW1251,TIE Fighter Pilot,Galactic Empire,antagonist
-75347-1,TIE Bomber,2023,625,Age of Rebellion,SW1252,Gonk Droid,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0532,Chewbacca,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0554,Bith Musician,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0700,C-3PO,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0771,Han Solo,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0778,Luke Skywalker,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0893,Wuher,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0897,Jawa,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW0898,Greedo,Hutt Clan,antagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1046,Obi-Wan Kenobi,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1085,R2-D2,Rebel Alliance,protagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1124,Ponda Baba,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1125,Cornelius Evazan,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1126,Labria,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1127,Garindan,Galactic Empire,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1128,Momaw Nadon,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1129,Kabe,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1130,Hrchek Kal Fas,none,neutral
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1131,Sandtrooper,Galactic Empire,antagonist
-75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion,SW1132,Sandtrooper,Galactic Empire,antagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0527,R2-D2,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0532,Chewbacca,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0585,Stormtrooper,Galactic Empire,antagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0636,Darth Vader,"Sith Order, Galactic Empire",antagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0700,C-3PO,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0762,Bespin Guard,Cloud City,neutral
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0823,Han Solo,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0831,IG-88,Galactic Empire,antagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0958,Princess Leia,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0969,Cloud Car Pilot,Cloud City,neutral
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0970,Ugnaught,none,neutral
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0971,Luke Skywalker,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0972,Princess Leia,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0973,Lando Calrissian,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0974,Lobot,Cloud City,neutral
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0975,Bespin Guard,Cloud City,neutral
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0976,Han Solo,Rebel Alliance,protagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0977,Boba Fett,Galactic Empire,antagonist
-75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
+7654-1,Droids Battle Pack,2007,102,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7654-1,Droids Battle Pack,2007,102,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
+7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0091,Clone Trooper,Galactic Republic,protagonist
+7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0126,Clone Trooper,Galactic Republic,protagonist
+7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi,SW0128,Clone Trooper,Galactic Republic,protagonist
+7656-1,General Grievous Starfighter,2007,232,Fall of the Jedi,SW0134,General Grievous,Confederation of Independent Systems,antagonist
+7657-1,AT-ST,2007,244,Age of Rebellion,SW0093,AT-ST Driver,Galactic Empire,antagonist
+7658-1,Y-wing Fighter,2007,454,Age of Rebellion,SW0029,R5-D4,none,neutral
+7658-1,Y-wing Fighter,2007,454,Age of Rebellion,SW0094,Jon Vander,Rebel Alliance,protagonist
+7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0035,TIE Fighter Pilot,Galactic Empire,antagonist
+7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0036,Stormtrooper,Galactic Empire,antagonist
+7659-1,Imperial Landing Craft,2007,471,Age of Rebellion,SW0109,Sandtrooper,Galactic Empire,antagonist
+7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
+7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0159,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi,SW0160,Naboo Fighter Pilot,Royal House of Naboo,protagonist
+7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,575,Fall of the Jedi,SW0162,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,575,Fall of the Jedi,SW0163,Kit Fisto,"Jedi Order, Galactic Republic",protagonist
+7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0095,Battle Droid Pilot,Confederation of Independent Systems,antagonist
+7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0096,Battle Droid Security,Confederation of Independent Systems,antagonist
+7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi,SW0164,Droideka,Confederation of Independent Systems,antagonist
+7663-1,Sith Infiltrator,2007,310,Fall of the Jedi,SW0003,Darth Maul,"Sith Order, Shadow Collective",antagonist
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0168,R2-R7,Galactic Republic,protagonist
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0169,Maoi Madakor,Galactic Republic,protagonist
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0170,Antidar Williams,Galactic Republic,protagonist
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0172,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi,SW0173,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0012,Dak Ralter,Rebel Alliance,protagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0090,Luke Skywalker,Rebel Alliance,protagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0165,K-3PO,Rebel Alliance,protagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0167,Hoth Rebel Trooper,Rebel Alliance,protagonist
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion,SW0171,Imperial Probe Droid,Galactic Empire,antagonist
+7669-1,Anakin's Jedi Starfighter,2008,153,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
+7669-1,Anakin's Jedi Starfighter,2008,153,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
+7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0184,Battle Droid Commander,Confederation of Independent Systems,antagonist
+7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi,SW0964,Dwarf Spider Droid,Confederation of Independent Systems,antagonist
+7671-1,AT-AP Walker,2008,392,Fall of the Jedi,SW0189,Clone Trooper,Galactic Republic,protagonist
+7673-1,Magna Guard Starfighter,2008,431,Fall of the Jedi,SW0190,Magnaguard,Confederation of Independent Systems,antagonist
+7674-1,V-19 Torrent,2008,471,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0193,Rotta,none,neutral
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0194,Captain Rex,Galactic Republic,protagonist
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0195,Asajj Ventress,"Nightsisters, Sith Order, Confederation of Independent Systems",antagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0196,Commander Cody,Galactic Republic,protagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0198,Plo Koon,"Jedi Order, Galactic Republic",protagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0200,Clone Trooper,Galactic Republic,protagonist
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi,SW0311,Spy Droid,Galactic Republic,protagonist
+7678-1,Droid Gunship,2008,329,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7678-1,Droid Gunship,2008,329,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7679-1,Republic Fighter Tank,2008,592,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+7679-1,Republic Fighter Tank,2008,592,Fall of the Jedi,SW0203,Clone Trooper,Galactic Republic,protagonist
+7680-1,The Twilight,2008,882,Fall of the Jedi,SW0028,R2-D2,Galactic Republic,protagonist
+7680-1,The Twilight,2008,882,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7680-1,The Twilight,2008,882,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
+7680-1,The Twilight,2008,882,Fall of the Jedi,SW0193,Rotta,none,neutral
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0184,Battle Droid Commander,Confederation of Independent Systems,antagonist
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi,SW0202,Commander Fox,Galactic Republic,protagonist
+7748-1,Corporate Alliance Tank Droid,2009,216,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7748-1,Corporate Alliance Tank Droid,2009,216,Fall of the Jedi,SW0233,Clone Trooper,Galactic Republic,protagonist
+7749-1,Echo Base,2009,155,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+7749-1,Echo Base,2009,155,Age of Rebellion,SW0252,Hoth Rebel Trooper,Rebel Alliance,protagonist
+7749-1,Echo Base,2009,155,Age of Rebellion,SW0253,Han Solo,Rebel Alliance,protagonist
+7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0136,Buzz Droid,Confederation of Independent Systems,antagonist
+7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
+7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi,SW0231,R7-A7,Galactic Republic,protagonist
+7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0190,Magnaguard,Confederation of Independent Systems,antagonist
+7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0224,Count Dooku,"Sith Order, Confederation of Independent Systems",antagonist
+7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi,SW0225,FA-4 Pilot Droid,Confederation of Independent Systems,antagonist
+7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0245,Turk Falso,Ohnaka Gang,antagonist
+7753-1,Pirate Tank,2009,372,Fall of the Jedi,SW0246,Hondo Ohnaka,Ohnaka Gang,antagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0031,Rebel Pilot,Rebel Alliance,protagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0247,Admiral Ackbar,Rebel Alliance,protagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0248,Mon Calamari Officer,Rebel Alliance,protagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0249,Mon Mothma,Rebel Alliance,protagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0250,Crix Madine,Rebel Alliance,protagonist
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion,SW0251,Lando Calrissian,Rebel Alliance,protagonist
+7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0220,Mace Windu,"Jedi Order, Galactic Republic",protagonist
+7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0312,TX-20,Confederation of Independent Systems,antagonist
+7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi,SW0313,R8-B7,Galactic Republic,protagonist
+7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0230,Super Battle Droid,Confederation of Independent Systems,antagonist
+7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0310,Luminara Unduli,"Jedi Order, Galactic Republic",protagonist
+7869-1,Battle for Geonosis,2011,331,Fall of the Jedi,SW0314,Captain Rex,Galactic Republic,protagonist
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0217,R2-D2,Galactic Republic,protagonist
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0340,Naboo Fighter Pilot,Royal House of Naboo,protagonist
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0347,Battle Droid Security,Confederation of Independent Systems,antagonist
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0348,Droideka,Confederation of Independent Systems,antagonist
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi,SW0349,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0342,Luke Skywalker,Rebel Alliance,protagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0343,Han Solo,Rebel Alliance,protagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0344,R-3PO,Rebel Alliance,protagonist
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0345,2-1B,Rebel Alliance,neutral
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion,SW0346,Princess Leia,Rebel Alliance,protagonist
+7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0297,Clone Trooper,Galactic Republic,protagonist
+7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0298,Clone Trooper,Galactic Republic,protagonist
+7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi,SW0299,Clone Trooper,Galactic Republic,protagonist
+7914-1,Mandalorian Battle Pack,2011,68,Fall of the Jedi,SW0296,Mandalorian Warrior,"Death Watch, Shadow Collective",antagonist
+7915-1,Imperial V-wing Starfighter,2011,139,Fall of the Jedi,SW0303,R2-Q2,Galactic Empire,antagonist
+7915-1,Imperial V-wing Starfighter,2011,139,Fall of the Jedi,SW0304,Imperial V-Wing Pilot,Galactic Empire,antagonist
+7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0300,Battle Droid Pilot,Confederation of Independent Systems,antagonist
+7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0301,Jar-Jar Binks,Gungan Grand Army,protagonist
+7929-1,The Battle of Naboo,2011,241,Fall of the Jedi,SW0302,Gungan Warrior,Gungan Grand Army,protagonist
+7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
+7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0305,Sugi,Aurra Sing's Crew,antagonist
+7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0306,Aurra Sing,Aurra Sing's Crew,antagonist
+7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi,SW0307,Embo,Aurra Sing's Crew,antagonist
+7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0308,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
+7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi,SW0309,Shaak Ti,"Jedi Order, Galactic Republic",protagonist
+7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
+7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0338,Logray,Ewoks,protagonist
+7956-1,Ewok Attack,2011,166,Age of Rebellion,SW0339,Tokkat,Ewoks,protagonist
+7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0316,Savage Opress,"Nightbrothers, Sith Order, Confederation of Independent Systems, Shadow Collective",antagonist
+7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0317,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi,SW0318,Asajj Ventress,"Nightsisters, Sith Order, Confederation of Independent Systems",antagonist
+7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0319,Ki-Adi-Mundi,"Jedi Order, Galactic Republic",protagonist
+7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0320,Geonosian,"Geonosians, Confederation of Independent Systems",antagonist
+7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi,SW0341,Commander Cody,Galactic Republic,protagonist
+7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0321,Captain Panaka,Royal House of Naboo,protagonist
+7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0322,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
+7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0323,Darth Maul,"Sith Order, Shadow Collective",antagonist
+7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi,SW0324,Padmé Amidala,Galactic Republic,protagonist
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0325,Watto,none,neutral
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0326,Sebulba,none,antagonist
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0327,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0328,Wald,none,neutral
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi,SW0329,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0219,Yoda,"Jedi Order, Galactic Republic",protagonist
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0330,Commander Wolffe,Galactic Republic,protagonist
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0331,Clone Trooper,Galactic Republic,protagonist
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0332,Eeth Koth,"Jedi Order, Galactic Republic",protagonist
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi,SW0333,Quinlan Vos,"Jedi Order, Galactic Republic",protagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0277,Darth Vader,"Sith Order, Galactic Empire",antagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0334,Han Solo,Rebel Alliance,protagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0335,Luke Skywalker,Rebel Alliance,protagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0336,Obi-Wan Kenobi,Rebel Alliance,protagonist
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion,SW0337,Princess Leia,Rebel Alliance,protagonist
+8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0221,Clone Trooper,Galactic Republic,protagonist
+8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi,SW0223,Clone Trooper Commander,Galactic Republic,protagonist
+8015-1,Assassin Droids Battle Pack,2009,94,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
+8015-1,Assassin Droids Battle Pack,2009,94,Fall of the Jedi,SW0229,Assassin Droid,Confederation of Independent Systems,antagonist
+8016-1,Hyena Droid Bomber,2009,232,Fall of the Jedi,SW0228,Battle Droid,Confederation of Independent Systems,antagonist
+8017-1,Darth Vader's TIE Fighter,2009,251,Age of Rebellion,SW0209,Darth Vader,"Sith Order, Galactic Empire",antagonist
+8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0219,Yoda,"Jedi Order, Galactic Republic",protagonist
+8018-1,Armored Assault Tank,2009,407,Fall of the Jedi,SW0230,Super Battle Droid,Confederation of Independent Systems,antagonist
+8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
+8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0201,Clone Trooper,Galactic Republic,protagonist
+8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi,SW0220,Mace Windu,"Jedi Order, Galactic Republic",protagonist
+8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0095,Battle Droid Pilot,Confederation of Independent Systems,antagonist
+8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0241,Onaconda Farr,"Confederation of Independent Systems, Galactic Republic",antagonist
+8036-1,Separatist Shuttle,2009,259,Fall of the Jedi,SW0242,Nute Gunray,"Trade Federation, Confederation of Independent Systems",antagonist
+8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
+8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi,SW0255,R2-D2,Galactic Republic,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0179,Han Solo,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0208,Imperial Trooper,Galactic Empire,antagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0235,Princess Leia,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0236,Chief Chirpa,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0237,Wicket W. Warrick,Ewoks,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0238,Paploo,Ewoks,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0239,Endor Rebel Trooper,Rebel Alliance,protagonist
+8038-1,The Battle of Endor,2009,890,Age of Rebellion,SW0240,Endor Rebel Trooper,Rebel Alliance,protagonist
+8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0191,Clone Pilot,Galactic Republic,protagonist
+8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0221,Clone Trooper,Galactic Republic,protagonist
+8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0243,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
+8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi,SW0244,Senate Commando,Galactic Republic,protagonist
+8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0258,Hoth Rebel Trooper,Rebel Alliance,protagonist
+8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0259,Hoth Rebel Trooper,Rebel Alliance,protagonist
+8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion,SW0260,Zev Senesca,Rebel Alliance,protagonist
+8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0261,Imperial Officer,Galactic Empire,antagonist
+8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion,SW0262,AT-AT Driver,Galactic Empire,antagonist
+8085-1,Freeco Speeder,2010,177,Fall of the Jedi,SW0263,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+8085-1,Freeco Speeder,2010,177,Fall of the Jedi,SW0264,Thi-Sen,none,neutral
+8086-1,Droid Tri-Fighter,2010,268,Fall of the Jedi,SW0227,Battle Droid Commander,Confederation of Independent Systems,antagonist
+8086-1,Droid Tri-Fighter,2010,268,Fall of the Jedi,SW0228,Battle Droid,Confederation of Independent Systems,antagonist
+8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0163,Kit Fisto,"Jedi Order, Galactic Republic",protagonist
+8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0265,Captain Jag,Galactic Republic,protagonist
+8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0266,Clone Pilot,Galactic Republic,protagonist
+8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi,SW0267,R4-P44,Galactic Republic,protagonist
+8089-1,Hoth Wampa Cave,2010,297,Age of Rebellion,SW0098,Luke Skywalker,Rebel Alliance,protagonist
+8089-1,Hoth Wampa Cave,2010,297,Age of Rebellion,SW0260,Zev Senesca,Rebel Alliance,protagonist
+8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0092,Super Battle Droid,Confederation of Independent Systems,antagonist
+8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0269,Barriss Offee,"Galactic Republic, Jedi",protagonist
+8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi,SW0272,Clone Trooper,Galactic Republic,protagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0270,Sentry Droid,Galactic Empire,antagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0271,Sandtrooper,Galactic Empire,antagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0273,Luke Skywalker,Rebel Alliance,protagonist
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion,SW0274,Obi-Wan Kenobi,Rebel Alliance,protagonist
+8093-1,Plo Koon's Jedi Starfighter,2010,175,Fall of the Jedi,SW0119,R7-D4,Galactic Republic,protagonist
+8093-1,Plo Koon's Jedi Starfighter,2010,175,Fall of the Jedi,SW0198,Plo Koon,"Jedi Order, Galactic Republic",protagonist
+8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0216,EV-A4-D,Confederation of Independent Systems,neutral
+8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0226,Nahdar Vebb,"Jedi Order, Galactic Republic",protagonist
+8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi,SW0254,General Grievous,Confederation of Independent Systems,antagonist
+8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0210,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
+8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0281,Clone Pilot,Galactic Republic,protagonist
+8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0282,2-1B,Galactic Republic,neutral
+8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi,SW0283,Darth Vader,"Sith Order, Galactic Republic, Galactic Empire",antagonist
+8097-1,Slave I,2010,573,Age of Rebellion,SW0278,Han Solo,Rebel Alliance,protagonist
+8097-1,Slave I,2010,573,Age of Rebellion,SW0279,Boba Fett,Galactic Empire,antagonist
+8097-1,Slave I,2010,573,Age of Rebellion,SW0280,Bossk,Galactic Empire,antagonist
+8097-1,Slave I,2010,573,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0192,Ahsoka Tano,"Jedi Order, Galactic Republic",protagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0200,Clone Trooper,Galactic Republic,protagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0284,Aayla Secura,"Jedi Order, Galactic Republic",protagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0285,Cad Bane,Cad Bane's Crew,antagonist
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi,SW0286,Clone Trooper Commander,Galactic Republic,protagonist
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0222,Assassin Droid,Confederation of Independent Systems,antagonist
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0244,Senate Commando,Galactic Republic,protagonist
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0285,Cad Bane,Cad Bane's Crew,antagonist
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0287,Shahan Alama,Cad Bane's Crew,antagonist
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi,SW0288,Captain Jayfon,Galactic Republic,protagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0115,Snowtrooper,Galactic Empire,antagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0161,C-3PO,Rebel Alliance,protagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0262,AT-AT Driver,Galactic Empire,antagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0289,General Veers,Galactic Empire,antagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0290,Han Solo,Rebel Alliance,protagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0291,Hoth Rebel Trooper,Rebel Alliance,protagonist
+8129-1,AT-AT Walker,2010,815,Age of Rebellion,SW0295,Luke Skywalker,Rebel Alliance,protagonist
+9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0359,Commando Droid,Confederation of Independent Systems,antagonist
+9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0377,Clone Trooper,Galactic Republic,protagonist
+9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi,SW0378,Clone Trooper,Galactic Republic,protagonist
+9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0005,Scout Trooper,Galactic Empire,antagonist
+9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0366,Stormtrooper,Galactic Empire,antagonist
+9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0367,Endor Rebel Trooper,Rebel Alliance,protagonist
+9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion,SW0368,Endor Rebel Trooper,Rebel Alliance,protagonist
+9490-1,Droid Escape,2012,137,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
+9490-1,Droid Escape,2012,137,Age of Rebellion,SW0364,Sandtrooper,Galactic Empire,antagonist
+9490-1,Droid Escape,2012,137,Age of Rebellion,SW0365,C-3PO,Rebel Alliance,protagonist
+9490-1,Droid Escape,2012,137,Age of Rebellion,SW0383,Sandtrooper,Galactic Empire,antagonist
+9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0379,Barriss Offee,"Galactic Republic, Jedi",protagonist
+9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0380,Commander Gree,Galactic Republic,protagonist
+9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0381,Geonosian Warrior,"Geonosians, Confederation of Independent Systems",antagonist
+9491-1,Geonosian Cannon,2012,132,Fall of the Jedi,SW0382,Geonosian Zombie,"Geonosians, Confederation of Independent Systems",antagonist
+9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0268,TIE Fighter Pilot,Galactic Empire,antagonist
+9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0374,Death Star Trooper,Galactic Empire,antagonist
+9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0375,R5-J2,Galactic Empire,antagonist
+9492-1,TIE Fighter,2012,413,Age of Rebellion,SW0376,Imperial Officer,Galactic Empire,antagonist
+9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0217,R2-D2,Rebel Alliance,protagonist
+9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0295,Luke Skywalker,Rebel Alliance,protagonist
+9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0372,Jek Porkins,Rebel Alliance,protagonist
+9493-1,X-wing Starfighter,2012,560,Age of Rebellion,SW0373,R5-D8,Rebel Alliance,protagonist
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0096,Battle Droid Security,Confederation of Independent Systems,antagonist
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0217,R2-D2,Galactic Republic,protagonist
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0361,Darth Vader,"Sith Order, Galactic Republic, Galactic Empire",antagonist
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0362,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi,SW0363,Nute Gunray,"Trade Federation, Confederation of Independent Systems",antagonist
+9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0369,Jon Vander,Rebel Alliance,protagonist
+9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0370,R5-F7,Rebel Alliance,protagonist
+9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion,SW0371,Princess Leia,Rebel Alliance,protagonist
+9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0395,Luke Skywalker,Rebel Alliance,protagonist
+9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0396,Boba Fett,Galactic Empire,antagonist
+9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0397,Kithaba,Hutt Clan,antagonist
+9496-1,Desert Skiff,2012,213,Age of Rebellion,SW0398,Lando Calrissian,Rebel Alliance,protagonist
+9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0308,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
+9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0392,Even Piell,"Jedi Order, Galactic Republic",protagonist
+9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi,SW0393,R3-D5,Galactic Republic,protagonist
+9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0301,Jar-Jar Binks,Gungan Grand Army,protagonist
+9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0387,Padmé Amidala,Galactic Republic,protagonist
+9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0409,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+9499-1,Gungan Sub,2012,465,Fall of the Jedi,SW0410,Qui-Gon Jinn,"Jedi Order, Galactic Republic",protagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0001,Battle Droid,Confederation of Independent Systems,antagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0183,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0224,Count Dooku,"Sith Order, Confederation of Independent Systems",antagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0254,General Grievous,Confederation of Independent Systems,antagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0411,Padmé Amidala,Galactic Republic,protagonist
+9515-1,Malevolence,2012,1101,Fall of the Jedi,SW0415,Battle Droid Commander,Confederation of Independent Systems,antagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0011,Chewbacca,Rebel Alliance,protagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0402,Jabba the Hutt,Hutt Clan,antagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0403,Han Solo,Rebel Alliance,protagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0404,Bib Fortuna,Hutt Clan,antagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0405,Gamorrean Guard,Hutt Clan,antagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0406,Oola,Hutt Clan,neutral
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0407,Princess Leia,Rebel Alliance,protagonist
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0408,Salacious B. Crumb,Hutt Clan,neutral
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0412,B'Omarr Monk,Hutt Clan,neutral
+9516-1,Jabba's Palace,2012,717,Age of Rebellion,SW0978,Han Solo,Rebel Alliance,protagonist
+9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0197,Obi-Wan Kenobi,"Jedi Order, Galactic Republic",protagonist
+9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0296,Mandalorian Warrior,"Death Watch, Shadow Collective",antagonist
+9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi,SW0416,Pre Vizsla,"Death Watch, Shadow Collective",antagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0417,Mace Windu,"Jedi Order, Galactic Republic",protagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0418,Palpatine,"Sith Order, Galactic Republic, Confederation of Independent Systems, Galactic Empire",antagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0419,Anakin Skywalker,"Jedi Order, Galactic Republic",protagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0420,Saesee Tiin,"Jedi Order, Galactic Republic",protagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0421,Agen Kolar,"Jedi Order, Galactic Republic",protagonist
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi,SW0422,Kit Fisto,"Jedi Order, Galactic Republic",protagonist

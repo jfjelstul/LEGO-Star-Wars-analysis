@@ -1,0 +1,922 @@
+minifig_id,character
+SW0001,Battle Droid
+SW0002,Boba Fett
+SW0003,Darth Maul
+SW0004,Darth Vader
+SW0005,Scout Trooper
+SW0006,Aldar Beedo
+SW0007,Anakin Skywalker
+SW0008,Anakin Skywalker
+SW0009,Biggs Darklighter
+SW0010,C-3PO
+SW0011,Chewbacca
+SW0012,Dak Ralter
+SW0013,Gungan Warrior
+SW0014,Han Solo
+SW0015,Han Solo
+SW0016,Hoth Rebel Trooper
+SW0017,Jar-Jar Binks
+SW0018,Luke Skywalker
+SW0019,Luke Skywalker
+SW0020,Luke Skywalker
+SW0021,Luke Skywalker
+SW0022,Naboo Security Guard
+SW0023,Obi-Wan Kenobi
+SW0024,Obi-Wan Kenobi
+SW0025,Padmé Amidala
+SW0026,Princess Leia
+SW0027,Qui-Gon Jinn
+SW0028,R2-D2
+SW0029,R5-D4
+SW0030,Rebel Engineer
+SW0031,Rebel Pilot
+SW0032,Rebel Pilot
+SW0033,Jon Vander
+SW0034,Rebel Engineer
+SW0035,TIE Fighter Pilot
+SW0036,Stormtrooper
+SW0037,Pit Droid
+SW0038,Watto
+SW0039,Pit Droid
+SW0040,Royal Guard
+SW0041,Palpatine
+SW0042,Imperial Shuttle Pilot
+SW0043,Gasgano
+SW0045,Han Solo
+SW0046,Imperial Officer
+SW0047,Battle Droid Security
+SW0048,Battle Droid Commander
+SW0049,Lobot
+SW0050,Wicket W. Warrick
+SW0051,Yoda
+SW0052,Tusken Raider
+SW0053,Jango Fett
+SW0054,Boba Fett
+SW0055,Obi-Wan Kenobi
+SW0056,Super Battle Droid
+SW0057,Jedi Knight
+SW0058,Clone Trooper
+SW0059,Zam Wesell
+SW0060,Count Dooku
+SW0061,Battle Droid
+SW0062,Geonosian
+SW0063,Droideka
+SW0064,Pit Droid
+SW0065,Battle Droid Pilot
+SW0067,Paploo
+SW0068,Luke Skywalker
+SW0069,Obi-Wan Kenobi
+SW0070,Princess Leia
+SW0071,Jabba the Hutt
+SW0072,EV-9D9
+SW0073,Gonk Droid
+SW0074,B'Omarr Monk
+SW0075,Gamorrean Guard
+SW0076,Bib Fortuna
+SW0077,T-16 Skyhopper Pilot
+SW0078,Geonosian Warrior
+SW0079,Luke Skywalker
+SW0080,Snowtrooper
+SW0081,Han Solo
+SW0082,Rebel Engineer
+SW0083,Luke Skywalker
+SW0084,Han Solo
+SW0085,Princess Leia
+SW0086,Lando Calrissian
+SW0087,Gamorrean Guard
+SW0088,Han Solo
+SW0089,Wedge Antilles
+SW0090,Luke Skywalker
+SW0091,Clone Trooper
+SW0092,Super Battle Droid
+SW0093,AT-ST Driver
+SW0094,Jon Vander
+SW0095,Battle Droid Pilot
+SW0096,Battle Droid Security
+SW0098,Luke Skywalker
+SW0099,Anakin Skywalker
+SW0100,Anakin Skywalker
+SW0101,Snowtrooper
+SW0102,AT-AT Driver
+SW0103,Luke Skywalker
+SW0104,Princess Leia
+SW0105,Lando Calrissian
+SW0106,Luke Skywalker
+SW0107,Boba Fett
+SW0108,Hoth Rebel Trooper
+SW0109,Sandtrooper
+SW0110,Greedo
+SW0111,Han Solo
+SW0113,Princess Leia
+SW0114,Imperial Officer
+SW0115,Snowtrooper
+SW0116,Luminara Unduli
+SW0117,Darth Vader
+SW0118,Clone Pilot
+SW0119,R7-D4
+SW0120,Anakin Skywalker
+SW0121,Darth Vader
+SW0122,Stormtrooper
+SW0123,Darth Vader
+SW0124,Palpatine
+SW0125,Dwarf Spider Droid
+SW0126,Clone Trooper
+SW0127,Clone Trooper
+SW0128,Clone Trooper
+SW0129,Clone Trooper
+SW0130,Clone Trooper
+SW0131,Clone Trooper
+SW0132,Wookiee Warrior
+SW0133,Mace Windu
+SW0134,General Grievous
+SW0135,Obi-Wan Kenobi
+SW0136,Buzz Droid
+SW0137,Obi-Wan Kenobi
+SW0138,Darth Vader
+SW0139,Darth Vader
+SW0140,Owen Lars
+SW0141,Jawa
+SW0142,R5-D4
+SW0144,FX-9 Medical Assistant Droid
+SW0145,ASP Droid
+SW0146,Treadwell Droid
+SW0147,R1-G4
+SW0148,Mace Windu
+SW0149,Dengar
+SW0150,Bespin Guard
+SW0151,IG-88
+SW0152,Obi-Wan Kenobi
+SW0153,Ten Numb
+SW0154,Imperial Officer
+SW0155,R2-D5
+SW0156,Mouse Droid
+SW0157,Grand Moff Tarkin
+SW0159,Anakin Skywalker
+SW0160,Naboo Fighter Pilot
+SW0161,C-3PO
+SW0162,Obi-Wan Kenobi
+SW0163,Kit Fisto
+SW0164,Droideka
+SW0165,K-3PO
+SW0167,Hoth Rebel Trooper
+SW0168,R2-R7
+SW0169,Maoi Madakor
+SW0170,Antidar Williams
+SW0171,Imperial Probe Droid
+SW0172,Qui-Gon Jinn
+SW0173,Obi-Wan Kenobi
+SW0175,Princess Leia
+SW0177,AT-AT Driver
+SW0178,General Veers
+SW0179,Han Solo
+SW0183,Anakin Skywalker
+SW0184,Battle Droid Commander
+SW0187,Rebel Fleet Trooper
+SW0188,Stormtrooper
+SW0189,Clone Trooper
+SW0190,Magnaguard
+SW0191,Clone Pilot
+SW0192,Ahsoka Tano
+SW0193,Rotta
+SW0194,Captain Rex
+SW0195,Asajj Ventress
+SW0196,Commander Cody
+SW0197,Obi-Wan Kenobi
+SW0198,Plo Koon
+SW0200,Clone Trooper
+SW0201,Clone Trooper
+SW0202,Commander Fox
+SW0203,Clone Trooper
+SW0208,Imperial Trooper
+SW0209,Darth Vader
+SW0210,Palpatine
+SW0216,EV-A4-D
+SW0217,R2-D2
+SW0219,Yoda
+SW0220,Mace Windu
+SW0221,Clone Trooper
+SW0222,Assassin Droid
+SW0223,Clone Trooper Commander
+SW0224,Count Dooku
+SW0225,FA-4 Pilot Droid
+SW0226,Nahdar Vebb
+SW0227,Battle Droid Commander
+SW0228,Battle Droid
+SW0229,Assassin Droid
+SW0230,Super Battle Droid
+SW0231,R7-A7
+SW0233,Clone Trooper
+SW0235,Princess Leia
+SW0236,Chief Chirpa
+SW0237,Wicket W. Warrick
+SW0238,Paploo
+SW0239,Endor Rebel Trooper
+SW0240,Endor Rebel Trooper
+SW0241,Onaconda Farr
+SW0242,Nute Gunray
+SW0243,Palpatine
+SW0244,Senate Commando
+SW0245,Turk Falso
+SW0246,Hondo Ohnaka
+SW0247,Admiral Ackbar
+SW0248,Mon Calamari Officer
+SW0249,Mon Mothma
+SW0250,Crix Madine
+SW0251,Lando Calrissian
+SW0252,Hoth Rebel Trooper
+SW0253,Han Solo
+SW0254,General Grievous
+SW0255,R2-D2
+SW0256,Captain Antilles
+SW0258,Hoth Rebel Trooper
+SW0259,Hoth Rebel Trooper
+SW0260,Zev Senesca
+SW0261,Imperial Officer
+SW0262,AT-AT Driver
+SW0263,Anakin Skywalker
+SW0264,Thi-Sen
+SW0265,Captain Jag
+SW0266,Clone Pilot
+SW0267,R4-P44
+SW0268,TIE Fighter Pilot
+SW0269,Barriss Offee
+SW0270,Sentry Droid
+SW0271,Sandtrooper
+SW0272,Clone Trooper
+SW0273,Luke Skywalker
+SW0274,Obi-Wan Kenobi
+SW0277,Darth Vader
+SW0278,Han Solo
+SW0279,Boba Fett
+SW0280,Bossk
+SW0281,Clone Pilot
+SW0282,2-1B
+SW0283,Darth Vader
+SW0284,Aayla Secura
+SW0285,Cad Bane
+SW0286,Clone Trooper Commander
+SW0287,Shahan Alama
+SW0288,Captain Jayfon
+SW0289,General Veers
+SW0290,Han Solo
+SW0291,Hoth Rebel Trooper
+SW0295,Luke Skywalker
+SW0296,Mandalorian Warrior
+SW0297,Clone Trooper
+SW0298,Clone Trooper
+SW0299,Clone Trooper
+SW0300,Battle Droid Pilot
+SW0301,Jar-Jar Binks
+SW0302,Gungan Warrior
+SW0303,R2-Q2
+SW0304,Imperial V-Wing Pilot
+SW0305,Sugi
+SW0306,Aurra Sing
+SW0307,Embo
+SW0308,Saesee Tiin
+SW0309,Shaak Ti
+SW0310,Luminara Unduli
+SW0311,Spy Droid
+SW0312,TX-20
+SW0313,R8-B7
+SW0314,Captain Rex
+SW0316,Savage Opress
+SW0317,Anakin Skywalker
+SW0318,Asajj Ventress
+SW0319,Ki-Adi-Mundi
+SW0320,Geonosian
+SW0321,Captain Panaka
+SW0322,Qui-Gon Jinn
+SW0323,Darth Maul
+SW0324,Padmé Amidala
+SW0325,Watto
+SW0326,Sebulba
+SW0327,Anakin Skywalker
+SW0328,Wald
+SW0329,Obi-Wan Kenobi
+SW0330,Commander Wolffe
+SW0331,Clone Trooper
+SW0332,Eeth Koth
+SW0333,Quinlan Vos
+SW0334,Han Solo
+SW0335,Luke Skywalker
+SW0336,Obi-Wan Kenobi
+SW0337,Princess Leia
+SW0338,Logray
+SW0339,Tokkat
+SW0340,Naboo Fighter Pilot
+SW0341,Commander Cody
+SW0342,Luke Skywalker
+SW0343,Han Solo
+SW0344,R-3PO
+SW0345,2-1B
+SW0346,Princess Leia
+SW0347,Battle Droid Security
+SW0348,Droideka
+SW0349,Anakin Skywalker
+SW0359,Commando Droid
+SW0360,Battle Droid Pilot
+SW0361,Darth Vader
+SW0362,Obi-Wan Kenobi
+SW0363,Nute Gunray
+SW0364,Sandtrooper
+SW0365,C-3PO
+SW0366,Stormtrooper
+SW0367,Endor Rebel Trooper
+SW0368,Endor Rebel Trooper
+SW0369,Jon Vander
+SW0370,R5-F7
+SW0371,Princess Leia
+SW0372,Jek Porkins
+SW0373,R5-D8
+SW0374,Death Star Trooper
+SW0375,R5-J2
+SW0376,Imperial Officer
+SW0377,Clone Trooper
+SW0378,Clone Trooper
+SW0379,Barriss Offee
+SW0380,Commander Gree
+SW0381,Geonosian Warrior
+SW0382,Geonosian Zombie
+SW0383,Sandtrooper
+SW0387,Padmé Amidala
+SW0392,Even Piell
+SW0393,R3-D5
+SW0395,Luke Skywalker
+SW0396,Boba Fett
+SW0397,Kithaba
+SW0398,Lando Calrissian
+SW0402,Jabba the Hutt
+SW0403,Han Solo
+SW0404,Bib Fortuna
+SW0405,Gamorrean Guard
+SW0406,Oola
+SW0407,Princess Leia
+SW0408,Salacious B. Crumb
+SW0409,Obi-Wan Kenobi
+SW0410,Qui-Gon Jinn
+SW0411,Padmé Amidala
+SW0412,B'Omarr Monk
+SW0415,Battle Droid Commander
+SW0416,Pre Vizsla
+SW0417,Mace Windu
+SW0418,Palpatine
+SW0419,Anakin Skywalker
+SW0420,Saesee Tiin
+SW0421,Agen Kolar
+SW0422,Kit Fisto
+SW0433,Luke Skywalker
+SW0434,Malakili
+SW0435,Pong Krell
+SW0437,Rebel Pilot
+SW0438,Clone Trooper Sergeant
+SW0439,Clone Pilot
+SW0441,Droideka
+SW0442,Clone Trooper
+SW0445,Clone Trooper
+SW0446,Yoda
+SW0447,Sniper Droideka
+SW0448,Commando Droid Captain
+SW0449,Obi-Wan Kenobi
+SW0450,Captain Rex
+SW0451,Han Solo
+SW0452,Ahsoka Tano
+SW0453,Clone Trooper
+SW0454,Umbaran Soldier
+SW0459,Imperial Probe Droid
+SW0460,General Rieekan
+SW0461,Luke Skywalker
+SW0462,Hoth Rebel Trooper
+SW0463,Snowtrooper
+SW0467,Battle Droid
+SW0468,Jango Fett
+SW0469,Stass Allie
+SW0471,Yoda
+SW0472,Count Dooku
+SW0473,FA-4 Pilot Droid
+SW0474,Poggle the Lesser
+SW0479,Mace Windu
+SW0480,Coleman Trebor
+SW0481,Clone Trooper Commander
+SW0482,Battle Droid Commander
+SW0483,Ree-Yees
+SW0485,Princess Leia
+SW0486,Max Rebo
+SW0487,Weequay Skiff Guard
+SW0488,Anakin Skywalker
+SW0489,Obi-Wan Kenobi
+SW0490,Padmé Amidala
+SW0491,Clone Pilot
+SW0492,Clone Trooper Captain
+SW0493,Darth Maul
+SW0494,Mandalorian Warrior
+SW0495,Mandalorian Warrior
+SW0496,Nikto Guard
+SW0497,Cad Bane
+SW0498,Obi-Wan Kenobi
+SW0515,General Grievous
+SW0518,Clone Trooper
+SW0519,Clone Trooper
+SW0520,Imperial Gunner
+SW0521,Royal Guard
+SW0522,Clone Trooper
+SW0523,Clone Trooper
+SW0524,Clone Trooper
+SW0525,Clone Pilot
+SW0526,Anakin Skywalker
+SW0527,R2-D2
+SW0528,Commander Gree
+SW0529,Imperial Gunner
+SW0530,Tarfful
+SW0531,Clone Trooper
+SW0532,Chewbacca
+SW0533,Buzz Droid
+SW0534,R4-P22
+SW0535,Obi-Wan Kenobi
+SW0536,Neimoidian Warrior
+SW0537,Clone Trooper
+SW0538,Plo Koon
+SW0539,Han Solo
+SW0540,Palpatine
+SW0542,Anakin Skywalker
+SW0548,Imperial Stormtrooper
+SW0551,Luke Skywalker
+SW0552,Obi-Wan Kenobi
+SW0553,Greedo
+SW0554,Bith Musician
+SW0556,Ten Numb
+SW0557,General Cracken
+SW0558,Rebel Pilot
+SW0560,Jawa
+SW0565,C1-10P (Chopper)
+SW0567,Dak Ralter
+SW0568,Snowtrooper
+SW0569,Luke Skywalker
+SW0574,Ezra Bridger
+SW0575,Zeb Orrelios
+SW0576,Hera Syndulla
+SW0577,Kanan Jarrus
+SW0578,Stormtrooper
+SW0579,General Veers
+SW0580,Snowtrooper Commander
+SW0581,AT-AT Driver
+SW0582,Imperial Officer
+SW0583,Imperial Navy Trooper
+SW0584,Imperial Crew
+SW0585,Stormtrooper
+SW0586,Darth Vader
+SW0590,Jawa
+SW0591,PK-4 Droid
+SW0592,Obi-Wan Kenobi
+SW0593,Qui-Gon Jinn
+SW0594,Naboo Security Guard
+SW0600,Battle Droid Security
+SW0602,Kanan Jarrus
+SW0613,Senate Commando Captain
+SW0614,Senate Commando
+SW0615,Asajj Ventress
+SW0616,Sabine Wren
+SW0617,Stormtrooper
+SW0619,T-16 Skyhopper Pilot
+SW0620,Tusken Raider
+SW0621,TIE Fighter Pilot
+SW0622,Grand Inquisitor
+SW0623,Cumberlayne Aresko
+SW0624,AT-DP Pilot
+SW0625,Agent Kallus
+SW0626,Wullffwarro
+SW0627,Wookiee Warrior
+SW0628,Gungan Warrior
+SW0629,Clone Trooper Lieutenant
+SW0634,Palpatine
+SW0635,Luke Skywalker
+SW0636,Darth Vader
+SW0638,Naboo Security Guard
+SW0639,Captain Tarpals
+SW0640,Anakin Skywalker
+SW0641,Naboo Fighter Pilot
+SW0642,Droideka
+SW0643,Princess Leia
+SW0644,Han Solo
+SW0645,Endor Rebel Trooper
+SW0646,Endor Rebel Trooper
+SW0647,Agent Kallus
+SW0648,Imperial Astromech Droid
+SW0649,Watto
+SW0650,Darth Maul
+SW0651,Qui-Gon Jinn
+SW0652,Dark Eye Probe Droid
+SW0654,First Order Crew Member
+SW0655,Unkar's Thug
+SW0656,First Order Snowtrooper Officer
+SW0657,First Order Snowtrooper
+SW0658,Poe Dameron
+SW0659,Resistance X-wing Pilot
+SW0660,Goss Toowers
+SW0661,BB-8
+SW0662,General Hux
+SW0663,Kylo Ren
+SW0664,First Order Stormtrooper Officer
+SW0665,First Order Officer
+SW0666,First Order Flametrooper
+SW0667,First Order Stormtrooper
+SW0668,Resistance Trooper
+SW0669,Resistance Trooper
+SW0670,First Order Officer
+SW0671,First Order Crew Member
+SW0672,First Order TIE Fighter Pilot
+SW0673,Kanjiklub Gang Member
+SW0674,Tasu Leech
+SW0675,Han Solo
+SW0676,Finn
+SW0677,Rey
+SW0684,Captain Phasma
+SW0694,First Order Crew Member
+SW0695,First Order Stormtrooper
+SW0696,Resistance Trooper
+SW0697,Resistance Trooper
+SW0698,Resistance Trooper
+SW0699,Resistance Officer
+SW0700,C-3PO
+SW0702,Imperial Combat Driver
+SW0703,Maz Kanata
+SW0704,Obi-Wan Kenobi
+SW0706,R4-P17
+SW0707,Yoda
+SW0708,Hoth Rebel Trooper
+SW0709,Han Solo
+SW0710,Ugnaught
+SW0711,Boba Fett
+SW0712,Imperial Probe Droid
+SW0714,Han Solo
+SW0717,Kylo Ren
+SW0718,Princess Leia
+SW0719,Admiral Ackbar
+SW0720,Resistance Trooper
+SW0721,Resistance Trooper
+SW0723,Unkar's Brute
+SW0737,Poe Dameron
+SW0738,Lor San Tekka
+SW0739,Unkar Plutt
+SW0740,Teedo
+SW0741,Grand Moff Tarkin
+SW0742,Sabine Wren
+SW0743,A-wing Pilot
+SW0744,Darth Vader
+SW0745,Luminara Unduli
+SW0746,Quinlan Vos
+SW0747,Fifth Brother
+SW0748,Commander Gregor
+SW0749,Captain Rex
+SW0750,Commander Wolffe
+SW0758,Commander Sato
+SW0759,Ahsoka Tano
+SW0762,Bespin Guard
+SW0771,Han Solo
+SW0778,Luke Skywalker
+SW0780,Bistan
+SW0781,Director Orson Krennic
+SW0782,K-2SO
+SW0783,Baze Malbus
+SW0784,Rebel Trooper
+SW0785,Imperial Ground Crew
+SW0786,Rebel Trooper
+SW0787,Shoretrooper
+SW0788,TIE Fighter Pilot
+SW0789,Chirrut Îmwe
+SW0790,Cassian Andor
+SW0791,Jyn Erso
+SW0792,Rebel Trooper
+SW0793,U-wing Pilot
+SW0794,Bodhi Rook
+SW0795,Imperial Hovertank Pilot
+SW0796,Imperial Death Trooper
+SW0797,AT-ST Driver
+SW0798,Pao
+SW0802,Imperial Shuttle Pilot
+SW0803,Rebel Trooper
+SW0804,Rebel Trooper
+SW0805,Rebel Trooper
+SW0806,Rebel Trooper
+SW0807,Imperial Death Trooper
+SW0808,Darth Maul
+SW0809,R3-S1
+SW0810,Qui-Gon Jinn
+SW0811,Grand Admiral Thrawn
+SW0812,Obi-Wan Kenobi
+SW0813,Cassian Andor
+SW0814,Jyn Erso
+SW0815,Shoretrooper
+SW0816,Admiral Raddus
+SW0817,Kanan Jarrus
+SW0818,Lando Calrissian
+SW0819,A-wing Pilot
+SW0820,Rebel Engineer
+SW0821,Weequay Skiff Guard
+SW0822,Boba Fett
+SW0823,Han Solo
+SW0824,Moroff
+SW0829,Darth Vader
+SW0830,4-LOM
+SW0831,IG-88
+SW0832,First Order Officer
+SW0833,Aayla Secura
+SW0834,Darth Vader
+SW0835,DD-13 Medical Assistant Droid
+SW0836,FX-6 Medical Assistant Droid
+SW0837,Clone Trooper Gunner
+SW0838,Prowler 1000 Exploration Droid
+SW0839,Guavian Security Soldier
+SW0840,Bala-Tik
+SW0841,Han Solo
+SW0842,First Order Stormtrooper
+SW0844,Boba Fett
+SW0845,Jango Fett
+SW0846,Obi-Wan Kenobi
+SW0853,Resistance Trooper
+SW0854,General Hux
+SW0855,BB-9E
+SW0856,Supreme Leader Snoke
+SW0857,Rose Tico
+SW0858,Finn
+SW0859,Kylo Ren
+SW0860,First Order TIE Fighter Pilot
+SW0861,Resistance Bomber Pilot
+SW0862,Resistance Bombardier
+SW0863,Vice Admiral Holdo
+SW0864,Paige Tico
+SW0865,Poe Dameron
+SW0866,Rey
+SW0867,Resistance Trooper
+SW0868,Poe Dameron
+SW0869,AT-M6 Driver
+SW0870,First Order Officer
+SW0871,First Order Shuttle Pilot
+SW0872,First Order Stormtrooper Officer
+SW0873,IT-000 Interrogator Droid
+SW0885,Kylo Ren
+SW0886,First Order Stormtrooper Executioner
+SW0887,Luke Skywalker
+SW0888,Rey
+SW0889,Mace Windu
+SW0890,Poe Dameron
+SW0891,General Ematt
+SW0892,Resistance Trooper
+SW0893,Wuher
+SW0894,Sandtrooper
+SW0895,R3-T2
+SW0896,Jawa
+SW0897,Jawa
+SW0898,Greedo
+SW0900,Finn
+SW0901,Rose Tico
+SW0902,First Order TIE Fighter Pilot
+SW0904,Captain Phasma
+SW0905,First Order Stormtrooper
+SW0906,Yoda
+SW0907,Luke Skywalker
+SW0908,R2-D2
+SW0909,Barriss Offee
+SW0910,Clone Trooper
+SW0911,Ki-Adi-Mundi
+SW0912,Imperial Emigration Officer
+SW0913,Imperial Recruitment Officer
+SW0914,Imperial Patrol Trooper
+SW0915,Han Solo
+SW0916,Qi'ra
+SW0917,Moloch
+SW0918,Rebolt
+SW0919,Tobias Beckett
+SW0920,Qi'ra
+SW0921,Han Solo
+SW0922,Chewbacca
+SW0923,Lando Calrissian
+SW0924,Quay Tolsite
+SW0925,Han Solo
+SW0926,TIE Fighter Pilot
+SW0927,Mimban Stormtrooper
+SW0928,DD-BD
+SW0929,Kessel Operations Droid
+SW0931,Poe Dameron
+SW0936,2-1B
+SW0937,R5-A2
+SW0938,RA-7 Protocol Droid
+SW0939,Anakin Skywalker
+SW0940,Enfys Nest
+SW0941,Tobias Beckett
+SW0942,Weazel
+SW0943,R2-Q2
+SW0944,Biggs Darklighter
+SW0945,Dryden's Enforcer
+SW0946,Qi'ra
+SW0947,Elite Praetorian Guard
+SW0948,Chewbacca
+SW0949,Han Solo
+SW0950,Range Trooper
+SW0951,Imperial Gunner
+SW0952,Luke Skywalker
+SW0953,Val
+SW0954,Dryden's Enforcer
+SW0955,Rio Durant
+SW0956,2-1B
+SW0957,Luke Skywalker
+SW0958,Princess Leia
+SW0959,FX-9 Medical Assistant Droid
+SW0960,Sandtrooper
+SW0961,Sandtrooper
+SW0964,Dwarf Spider Droid
+SW0965,Dwarf Spider Droid
+SW0966,Dwarf Spider Droid
+SW0969,Cloud Car Pilot
+SW0970,Ugnaught
+SW0971,Luke Skywalker
+SW0972,Princess Leia
+SW0973,Lando Calrissian
+SW0974,Lobot
+SW0975,Bespin Guard
+SW0976,Han Solo
+SW0977,Boba Fett
+SW0978,Han Solo
+SW0979,Aldar Beedo
+SW0980,Sebulba
+SW0984,Han Solo
+SW0989,Elite Praetorian Guard
+SW0990,Elite Praetorian Guard
+SW0991,Luke Skywalker
+SW0994,Princess Leia
+SW0995,Rebel Fleet Trooper
+SW0996,Kashyyyk Battle Droid
+SW0997,Stormtrooper
+SW0998,Praetorian Training Droid
+SW0999,Luke Skywalker
+SW1001,Anakin Skywalker
+SW1002,Clone Trooper
+SW1003,Commander Gree
+SW1004,Mouse Droid
+SW1005,Finch Dallow
+SW1006,Kylo Ren
+SW1010,Major Elrik Vonreg
+SW1011,Princess Leia
+SW1012,Kaz Xiono
+SW1013,R1-J5
+SW1018,Griff Halloran
+SW1019,Poe Dameron
+SW1020,Zuckuss
+SW1021,Han Solo
+SW1022,Princess Leia
+SW1023,Padmé Amidala
+SW1025,Dak Ralter
+SW1026,Hoth Rebel Trooper
+SW1027,Lando Calrissian
+SW1028,Wookiee Warrior
+SW1029,Darth Vader
+SW1030,Dwarf Spider Droid
+SW1034,BB-8
+SW1035,Captain Antilles
+SW1036,Princess Leia
+SW1037,Bail Organa
+SW1045,Imperial Gunner
+SW1046,Obi-Wan Kenobi
+SW1047,Temmin 'Snap' Wexley
+SW1048,Lieutenant Kaydel Ko Connix
+SW1049,Poe Dameron
+SW1050,Zorii Bliss
+SW1051,D-O
+SW1052,Astromech Droid
+SW1053,First Order Snowtrooper
+SW1054,Rey
+SW1055,First Order Jet Trooper
+SW1056,First Order Treadspeeder Driver
+SW1057,Din Djarin
+SW1058,Cara Dune
+SW1059,Klatooinian Raider
+SW1060,Klatooinian Raider
+SW1061,Kylo Ren
+SW1062,Allegiant General Pryde
+SW1063,Ap'lek
+SW1064,Ushar
+SW1065,Sith Trooper
+SW1066,Finn
+SW1067,Lando Calrissian
+SW1068,Boolio
+SW1074,Tusken Raider
+SW1075,Sith Jet Trooper
+SW1076,Sith Eternal Officer
+SW1077,Mandalorian Warrior
+SW1078,Mandalorian Warrior
+SW1079,Mandalorian Warrior
+SW1080,Mandalorian Warrior
+SW1082,Obi-Wan Kenobi
+SW1083,Darth Vader
+SW1084,Obi-Wan Kenobi
+SW1085,R2-D2
+SW1086,Luke Skywalker
+SW1087,Trudgen
+SW1088,Jannah
+SW1089,Vicrul
+SW1093,Clone Trooper
+SW1094,Clone Trooper
+SW1095,Anakin Skywalker
+SW1096,Ahsoka Tano
+SW1097,Clone Trooper
+SW1098,Kuruk
+SW1099,Cardo
+SW1100,Clone Trooper
+SW1101,General Veers
+SW1102,Snowtrooper
+SW1103,Snowtrooper
+SW1104,AT-AT Driver
+SW1105,AT-AT Driver
+SW1106,Darth Vader
+SW1107,Palpatine
+SW1112,Darth Vader
+SW1113,Grogu
+SW1114,Greef Karga
+SW1115,IG-11
+SW1116,Scout Trooper
+SW1124,Ponda Baba
+SW1125,Cornelius Evazan
+SW1126,Labria
+SW1127,Garindan
+SW1128,Momaw Nadon
+SW1129,Kabe
+SW1130,Hrchek Kal Fas
+SW1131,Sandtrooper
+SW1132,Sandtrooper
+SW1135,Din Djarin
+SW1136,NI-L8
+SW1137,Stormtrooper
+SW1138,TIE Fighter Pilot
+SW1139,Luke Skywalker
+SW1140,General Jan Dodonna
+SW1141,Darth Vader
+SW1142,Imperial Shuttle Pilot
+SW1146,Clone Trooper Commander
+SW1148,Hunter
+SW1149,Wrecker
+SW1150,Tech
+SW1151,Echo
+SW1152,Crosshair
+SW1153,Gonky
+SW1154,General Veers
+SW1155,Darth Maul
+SW1156,Greef Karga
+SW1157,Artillery Stormtrooper
+SW1158,Boba Fett
+SW1159,Fennec Shand
+SW1160,Moff Gideon
+SW1161,Dark Trooper
+SW1162,Gar Saxon
+SW1163,Bo-Katan Kryze
+SW1164,Mandalorian Warrior
+SW1166,Din Djarin
+SW1167,Stormtrooper
+SW1168,Stormtrooper
+SW1171,The Armorer
+SW1172,Paz Vizsla
+SW1178,Snowtrooper
+SW1179,Snowtrooper
+SW1181,Snowtrooper
+SW1182,Scout Trooper
+SW1183,AT-ST Driver
+SW1184,Chewbacca
+SW1185,Hoth Rebel Trooper
+SW1186,Hoth Rebel Trooper
+SW1187,Hoth Rebel Trooper
+SW1188,Hoth Rebel Trooper
+SW1189,Clone Trooper
+SW1190,Imperial Probe Droid
+SW1191,Luke Skywalker
+SW1192,Fennec Shand
+SW1193,Bib Fortuna
+SW1194,Theelin Dancer
+SW1195,Quarren
+SW1196,Gamorrean Guard
+SW1197,Weequay Guard
+SW1205,Mace Windu
+SW1206,187th Legion Clone Commander
+SW1207,Clone Trooper
+SW1210,Peli Motto
+SW1211,BD-72
+SW1212,Din Djarin
+SW1214,Omega
+SW1215,Todo 360
+SW1216,Taun We
+SW1219,Cad Bane
+SW1220,Obi-Wan Kenobi
+SW1221,R4-P17
+SW1222,Grand Inquisitor
+SW1223,Fifth Brother
+SW1224,Obi-Wan Kenobi
+SW1225,Tala Durith
+SW1226,NED-B
+SW1227,Obi-Wan Kenobi
+SW1228,Darth Vader
+SW1230,Luthen Rael
+SW1231,Cassian Andor
+SW1232,Syril Karn
+SW1233,Commander Cody
+SW1234,Dwarf Spider Droid
+SW1235,Clone Trooper
+SW1236,Clone Trooper Gunner
+SW1237,Third Sister

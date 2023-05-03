@@ -1,0 +1,363 @@
+set_id,set_name,year,count_pieces,era
+10123-1,Cloud City,2003,698,Age of Rebellion
+10144-1,Sandcrawler,2005,1669,Age of Rebellion
+10178-1,Motorized Walking AT-AT,2007,1137,Age of Rebellion
+10195-1,Republic Dropship with AT-OT Walker,2009,1758,Fall of the Jedi
+10198-1,Tantive IV,2009,1408,Age of Rebellion
+30004-1,Battle Droid on STAP,2009,28,Fall of the Jedi
+30005-1,Imperial Speeder Bike,2009,33,Age of Rebellion
+30006-1,Clone Walker,2009,31,Fall of the Jedi
+30058-1,STAP,2012,24,Fall of the Jedi
+40557-1,Defense of Hoth,2022,64,Age of Rebellion
+40558-1,Clone Trooper Command Station,2022,66,Fall of the Jedi
+4475-1,Jabba's Message,2003,44,Age of Rebellion
+4476-1,Jabba's Prize,2003,40,Age of Rebellion
+4477-1,T-16 Skyhopper,2003,98,Age of Rebellion
+4478-1,Geonosian Fighter,2003,170,Fall of the Jedi
+4479-1,TIE Bomber,2003,230,Age of Rebellion
+4480-1,Jabba's Palace,2003,231,Age of Rebellion
+4482-1,AT-TE,2003,658,Fall of the Jedi
+4483-1,AT-AT,2003,1064,Age of Rebellion
+4500-1,Rebel Snowspeeder,2004,214,Age of Rebellion
+4501-1,Mos Eisley Cantina,2004,193,Age of Rebellion
+4502-1,X-wing Fighter,2004,563,Age of Rebellion
+4504-1,Millennium Falcon,2004,985,Age of Rebellion
+6205-1,V-wing Fighter,2006,118,Fall of the Jedi
+6206-1,TIE Interceptor,2006,212,Age of Rebellion
+6207-1,A-wing Fighter,2006,194,Age of Rebellion
+6208-1,B-wing Fighter,2006,435,Age of Rebellion
+6209-1,Slave I,2006,537,Age of Rebellion
+6210-1,Jabba's Sail Barge,2006,781,Age of Rebellion
+6211-1,Imperial Star Destroyer,2006,1367,Age of Rebellion
+6212-1,X-wing Fighter,2006,437,Age of Rebellion
+7101-1,Lightsaber Duel,1999,52,Fall of the Jedi
+7103-1,Jedi Duel,2002,82,Fall of the Jedi
+7104-1,Desert Skiff,2000,55,Age of Rebellion
+7106-1,Droid Escape,2001,45,Age of Rebellion
+7110-1,Landspeeder,1999,49,Age of Rebellion
+7113-1,Tusken Raider Encounter,2002,93,Fall of the Jedi
+7115-1,Gungan Patrol,2000,77,Fall of the Jedi
+7119-1,Twin-Pod Cloud Car,2002,118,Age of Rebellion
+7121-1,Naboo Swamp,1999,82,Fall of the Jedi
+7124-1,Flash Speeder,2000,106,Fall of the Jedi
+7126-1,Battle Droid Carrier,2001,133,Fall of the Jedi
+7127-1,Imperial AT-ST,2001,107,Age of Rebellion
+7128-1,Speeder Bikes,1999,93,Age of Rebellion
+7130-1,Snowspeeder,1999,215,Age of Rebellion
+7131-1,Anakin's Podracer,1999,136,Fall of the Jedi
+7133-1,Bounty Hunter Pursuit,2002,259,Fall of the Jedi
+7134-1,A-wing Fighter,2000,125,Age of Rebellion
+7139-1,Ewok Attack,2002,121,Age of Rebellion
+7140-1,X-wing Fighter,1999,266,Age of Rebellion
+7141-1,Naboo Fighter,1999,179,Fall of the Jedi
+7142-1,X-wing Fighter,2002,267,Age of Rebellion
+7143-1,Jedi Starfighter,2002,138,Fall of the Jedi
+7144-1,Slave I,2000,166,Age of Rebellion
+7146-1,TIE Fighter,2001,171,Age of Rebellion
+7150-1,TIE Fighter and Y-wing,1999,409,Age of Rebellion
+7151-1,Sith Infiltrator,1999,244,Fall of the Jedi
+7152-1,TIE Fighter and Y-wing,2002,410,Age of Rebellion
+7153-1,Jango Fett's Slave I,2002,369,Fall of the Jedi
+7155-1,Trade Federation AAT,2000,158,Fall of the Jedi
+7159-1,Star Wars Podracing Bucket,2000,292,Fall of the Jedi
+7161-1,Gungan Sub,1999,379,Fall of the Jedi
+7163-1,Republic Gunship,2002,686,Fall of the Jedi
+7166-1,Imperial Shuttle,2001,238,Age of Rebellion
+7171-1,Mos Espa Podrace,1999,896,Fall of the Jedi
+7180-1,B-wing at Rebel Control Center,2000,338,Age of Rebellion
+7184-1,Trade Federation MTT,2000,470,Fall of the Jedi
+7186-1,Watto's Junkyard,2001,443,Fall of the Jedi
+7190-1,Millennium Falcon,2000,663,Age of Rebellion
+7200-1,Final Duel I,2002,29,Age of Rebellion
+7201-1,Final Duel II,2002,23,Age of Rebellion
+7203-1,Jedi Defense I,2002,59,Fall of the Jedi
+7204-1,Jedi Defense II,2002,53,Fall of the Jedi
+7250-1,Clone Scout Walker,2005,108,Fall of the Jedi
+7251-1,Darth Vader Transformation,2005,53,Fall of the Jedi
+7252-1,Droid Tri-Fighter,2005,148,Fall of the Jedi
+7255-1,General Grievous Chase,2005,111,Fall of the Jedi
+7256-1,Jedi Starfighter and Vulture Droid,2005,202,Fall of the Jedi
+7257-1,Ultimate Lightsaber Duel,2005,282,Fall of the Jedi
+7258-1,Wookiee Attack,2005,366,Fall of the Jedi
+7259-1,ARC-170 Fighter,2005,396,Fall of the Jedi
+7260-1,Wookiee Catamaran,2005,376,Fall of the Jedi
+7261-1,Clone Turbo Tank,2005,801,Fall of the Jedi
+7261-2,Clone Turbo Tank,2006,813,Fall of the Jedi
+7262-1,TIE Fighter and Y-Wing,2004,412,Age of Rebellion
+7263-1,TIE Fighter,2005,159,Age of Rebellion
+7264-1,Imperial Inspection,2005,367,Age of Rebellion
+7283-1,Ultimate Space Battle,2005,567,Fall of the Jedi
+75000-1,Clone Troopers vs. Droidekas,2013,124,Fall of the Jedi
+75002-1,AT-RT,2013,222,Fall of the Jedi
+75003-1,A-wing Starfighter,2013,177,Age of Rebellion
+75004-1,Z-95 Headhunter,2013,373,Fall of the Jedi
+75005-1,Rancor Pit,2013,380,Age of Rebellion
+75012-1,BARC Speeder with Sidecar,2013,226,Fall of the Jedi
+75013-1,Umbaran MHC,2013,493,Fall of the Jedi
+75014-1,Battle of Hoth,2013,426,Age of Rebellion
+75015-1,Corporate Alliance Tank Droid,2013,271,Fall of the Jedi
+75016-1,Homing Spider Droid,2013,295,Fall of the Jedi
+75017-1,Duel on Geonosis,2013,391,Fall of the Jedi
+75019-1,AT-TE,2013,794,Fall of the Jedi
+75020-1,Jabba's Sail Barge,2013,850,Age of Rebellion
+75021-1,Republic Gunship,2013,1175,Fall of the Jedi
+75022-1,Mandalorian Speeder,2013,211,Fall of the Jedi
+75024-1,HH-87 Starhopper,2013,362,Fall of the Jedi
+75034-1,Death Star Troopers,2014,102,Age of Rebellion
+75035-1,Kashyyyk Troopers,2014,99,Fall of the Jedi
+75036-1,Utapau Troopers,2014,83,Fall of the Jedi
+75037-1,Battle on Saleucami,2014,183,Fall of the Jedi
+75038-1,Jedi Interceptor,2014,223,Fall of the Jedi
+75039-1,V-wing Starfighter,2014,201,Fall of the Jedi
+75040-1,General Grievous' Wheel Bike,2014,261,Fall of the Jedi
+75041-1,Vulture Droid,2014,205,Fall of the Jedi
+75042-1,Droid Gunship,2014,439,Fall of the Jedi
+75043-1,AT-AP,2014,717,Fall of the Jedi
+75044-1,Droid Tri-Fighter,2014,262,Fall of the Jedi
+75045-1,Republic AV-7 Anti-Vehicle Cannon,2014,434,Fall of the Jedi
+75046-1,Coruscant Police Gunship,2014,481,Fall of the Jedi
+75048-1,The Phantom,2014,234,Age of Rebellion
+75049-1,Snowspeeder,2014,278,Age of Rebellion
+75050-1,B-Wing,2014,448,Age of Rebellion
+75052-1,Mos Eisley Cantina,2014,615,Age of Rebellion
+75053-1,The Ghost,2014,929,Age of Rebellion
+75054-1,AT-AT,2014,1137,Age of Rebellion
+75055-1,Imperial Star Destroyer,2014,1359,Age of Rebellion
+75058-1,MTT,2014,954,Fall of the Jedi
+75078-1,Imperial Troop Transport,2015,141,Age of Rebellion
+75080-1,AAT,2015,251,Fall of the Jedi
+75081-1,T-16 Skyhopper,2015,247,Age of Rebellion
+75082-1,TIE Advanced Prototype,2015,355,Age of Rebellion
+75083-1,AT-DP,2015,500,Age of Rebellion
+75084-1,Wookiee Gunship,2015,570,Age of Rebellion
+75085-1,Hailfire Droid,2015,163,Fall of the Jedi
+75086-1,Battle Droid Troop Carrier,2015,565,Fall of the Jedi
+75087-1,Anakin's Custom Jedi Starfighter,2015,370,Fall of the Jedi
+75088-1,Senate Commando Troopers,2015,106,Fall of the Jedi
+75090-1,Ezra's Speeder Bike,2015,253,Age of Rebellion
+75091-1,Flash Speeder,2015,312,Fall of the Jedi
+75092-1,Naboo Starfighter,2015,442,Fall of the Jedi
+75093-1,Death Star Final Duel,2015,724,Age of Rebellion
+75094-1,Imperial Shuttle Tydirium,2015,937,Age of Rebellion
+75096-1,Sith Infiltrator,2015,662,Fall of the Jedi
+75099-1,Rey's Speeder,2015,193,Rise of the First Order
+75100-1,First Order Snowspeeder,2015,444,Rise of the First Order
+75101-1,First Order Special Forces TIE Fighter,2015,517,Rise of the First Order
+75102-1,Poe's X-wing Fighter,2015,717,Rise of the First Order
+75103-1,First Order Transporter,2015,792,Rise of the First Order
+75104-1,Kylo Ren's Command Shuttle,2015,1005,Rise of the First Order
+75105-1,Millennium Falcon,2015,1329,Rise of the First Order
+75106-1,Imperial Assault Carrier,2015,1216,Age of Rebellion
+75131-1,Resistance Trooper Battle Pack,2016,112,Rise of the First Order
+75132-1,First Order Battle Pack,2016,88,Rise of the First Order
+75135-1,Obi-Wan's Jedi Interceptor,2016,215,Fall of the Jedi
+75136-1,Droid Escape Pod,2016,197,Age of Rebellion
+75137-1,Carbon-Freezing Chamber,2016,231,Age of Rebellion
+75138-1,Hoth Attack,2016,233,Age of Rebellion
+75139-1,Battle on Takodana,2016,409,Rise of the First Order
+75140-1,Resistance Troop Transporter,2016,646,Rise of the First Order
+75141-1,Kanan's Speeder Bike,2016,234,Age of Rebellion
+75142-1,Homing Spider Droid,2016,310,Fall of the Jedi
+75148-1,Encounter on Jakku,2016,530,Rise of the First Order
+75149-1,Resistance X-wing Fighter,2016,740,Rise of the First Order
+75150-1,Vader's TIE Advanced vs. A-wing Starfighter,2016,702,Age of Rebellion
+75151-1,Clone Turbo Tank,2016,903,Fall of the Jedi
+75152-1,Imperial Assault Hovertank,2016,385,Age of Rebellion
+75153-1,AT-ST Walker,2016,449,Age of Rebellion
+75154-1,TIE Striker,2016,543,Age of Rebellion
+75155-1,Rebel U-wing Fighter,2016,659,Age of Rebellion
+75156-1,Krennic's Imperial Shuttle,2016,863,Age of Rebellion
+75157-1,Captain Rex's AT-TE,2016,972,Age of Rebellion
+75158-1,Rebel Combat Frigate,2016,936,Age of Rebellion
+75164-1,Rebel Trooper Battle Pack,2017,120,Age of Rebellion
+75165-1,Imperial Trooper Battle Pack,2017,112,Age of Rebellion
+75166-1,First Order Transport Speeder Battle Pack,2017,117,Rise of the First Order
+75168-1,Yoda's Jedi Starfighter,2017,262,Fall of the Jedi
+75169-1,Duel on Naboo,2017,208,Fall of the Jedi
+75170-1,The Phantom,2017,269,Age of Rebellion
+75171-1,Battle on Scarif,2017,419,Age of Rebellion
+75172-1,Y-wing Starfighter,2017,691,Age of Rebellion
+75173-1,Luke's Landspeeder,2017,149,Age of Rebellion
+75174-1,Desert Skiff Escape,2017,277,Age of Rebellion
+75175-1,A-wing Starfighter,2017,358,Age of Rebellion
+75176-1,Resistance Transport Pod,2017,294,Rise of the First Order
+75177-1,First Order Heavy Scout Walker,2017,554,Rise of the First Order
+75178-1,Jakku Quadjumper,2017,457,Rise of the First Order
+75179-1,Kylo Ren's TIE Fighter,2017,630,Rise of the First Order
+75180-1,Rathtar Escape,2017,836,Rise of the First Order
+75182-1,Republic Fighter Tank,2017,305,Fall of the Jedi
+75183-1,Darth Vader Transformation,2017,282,Fall of the Jedi
+75188-2,Resistance Bomber,2018,778,Rise of the First Order
+75188-3,Resistance Bomber,2017,778,Rise of the First Order
+75189-1,First Order Heavy Assault Walker,2017,1376,Rise of the First Order
+75190-1,First Order Star Destroyer,2017,1416,Rise of the First Order
+75191-1,Jedi Starfighter with Hyperdrive,2017,825,Fall of the Jedi
+75197-1,First Order Specialists Battle Pack,2018,108,Rise of the First Order
+75198-1,Tatooine Battle Pack,2018,97,Age of Rebellion
+75199-1,General Grievous' Combat Speeder,2018,157,Fall of the Jedi
+75200-1,Ahch-To Island Training,2018,241,Rise of the First Order
+75201-1,First Order AT-ST,2018,370,Rise of the First Order
+75202-1,Defense of Crait,2018,746,Rise of the First Order
+75203-1,Hoth Medical Chamber,2018,255,Age of Rebellion
+75205-1,Mos Eisley Cantina,2018,376,Age of Rebellion
+75206-1,Jedi and Clone Troopers Battle Pack,2018,102,Fall of the Jedi
+75207-1,Imperial Patrol Battle Pack,2018,99,Reign of the Empire
+75208-1,Yoda's Hut,2018,229,Age of Rebellion
+75209-1,Han Solo's Landspeeder,2018,345,Reign of the Empire
+75210-1,Moloch's Landspeeder,2018,464,Reign of the Empire
+75211-1,Imperial TIE Fighter,2018,519,Reign of the Empire
+75212-1,Kessel Run Millennium Falcon,2018,1414,Reign of the Empire
+75214-1,Anakin's Jedi Starfighter,2018,247,Fall of the Jedi
+75215-1,Cloud-Rider Swoop Bikes,2018,355,Reign of the Empire
+75216-1,Snoke's Throne Room,2018,492,Rise of the First Order
+75217-1,Imperial Conveyex Transport,2018,622,Reign of the Empire
+75218-1,X-wing Starfighter,2018,731,Age of Rebellion
+75219-1,Imperial AT-Hauler,2018,829,Reign of the Empire
+75220-1,Sandcrawler,2018,1239,Age of Rebellion
+75221-1,Imperial Landing Craft,2018,636,Age of Rebellion
+75222-1,Betrayal at Cloud City,2018,2812,Age of Rebellion
+75225-1,Elite Praetorian Guard Battle Pack,2019,109,Rise of the First Order
+75229-1,Death Star Escape,2019,329,Age of Rebellion
+75233-1,Droid Gunship,2019,389,Fall of the Jedi
+75234-1,AT-AP Walker,2019,689,Fall of the Jedi
+75236-1,Duel on Starkiller Base,2019,191,Rise of the First Order
+75240-1,Major Vonreg's TIE Fighter,2019,496,Rise of the First Order
+75242-1,Black Ace TIE Interceptor,2019,396,Rise of the First Order
+75243-1,Slave I,2019,1007,Age of Rebellion
+75244-1,Tantive IV,2019,1768,Age of Rebellion
+75246-1,Death Star Cannon,2019,159,Age of Rebellion
+75248-1,Resistance A-wing Starfighter,2019,269,Rise of the First Order
+75249-1,Resistance Y-wing Starfighter,2019,578,Rise of the First Order
+75250-1,Pasaana Speeder Chase,2019,373,Rise of the First Order
+75254-1,AT-ST Raider,2019,540,The New Republic
+75256-1,Kylo Ren's Shuttle,2019,1005,Rise of the First Order
+75257-1,Millennium Falcon,2019,1351,Rise of the First Order
+75258-1,Anakin's Podracer,2019,279,Fall of the Jedi
+75259-1,Snowspeeder,2019,309,Age of Rebellion
+75261-1,Clone Scout Walker,2019,250,Fall of the Jedi
+75266-1,Sith Troopers Battle Pack,2020,105,Rise of the First Order
+75267-1,Mandalorian Battle Pack,2020,102,The New Republic
+75269-1,Duel on Mustafar,2020,208,Fall of the Jedi
+75270-1,Obi-Wan's Hut,2020,200,Age of Rebellion
+75271-1,Luke Skywalker's Landspeeder,2020,236,Age of Rebellion
+75272-1,Sith TIE Fighter,2020,470,Rise of the First Order
+75273-1,Poe Dameron's X-wing Fighter,2020,761,Rise of the First Order
+75280-1,501st Legion Clone Troopers,2020,285,Fall of the Jedi
+75281-1,Anakin's Jedi Interceptor,2020,248,Fall of the Jedi
+75283-1,Armored Assault Tank,2020,286,Fall of the Jedi
+75284-1,Knights of Ren Transport Ship,2020,595,Rise of the First Order
+75286-1,General Grievous's Starfighter,2020,487,Fall of the Jedi
+75288-1,AT-AT,2020,1267,Age of Rebellion
+75290-1,Mos Eisley Cantina,2020,3187,Age of Rebellion
+75291-1,Death Star Final Duel,2020,775,Age of Rebellion
+75292-1,The Razor Crest,2020,1023,The New Republic
+75296-1,Darth Vader Meditation Chamber,2021,663,Age of Rebellion
+75299-1,Trouble on Tatooine,2021,276,The New Republic
+75300-1,Imperial TIE Fighter,2021,432,Age of Rebellion
+75301-1,Luke Skywalker's X-wing Fighter,2021,474,Age of Rebellion
+75302-1,Imperial Shuttle,2021,660,Age of Rebellion
+75310-1,Duel on Mandalore,2021,147,Fall of the Jedi
+75311-1,Imperial Armored Marauder,2021,478,The New Republic
+75312-1,Boba Fett's Starship,2021,593,The New Republic
+75314-1,The Bad Batch Attack Shuttle,2021,969,Reign of the Empire
+75315-1,Imperial Light Cruiser,2021,1336,The New Republic
+75316-1,Mandalorian Starfighter,2021,544,Fall of the Jedi
+75319-1,The Armorer's Mandalorian Forge,2021,258,The New Republic
+75320-1,Snowtrooper Battle Pack,2022,105,Age of Rebellion
+75322-1,Hoth AT-ST,2022,586,Age of Rebellion
+75323-1,The Justifier,2022,1022,Reign of the Empire
+75324-1,Dark Trooper Attack,2022,166,The New Republic
+75325-1,The Mandalorian's N-1 Starfighter,2022,412,The New Republic
+75326-1,Boba Fett's Throne Room,2022,732,The New Republic
+75333-1,Obi-Wan Kenobi's Jedi Starfighter,2022,282,Fall of the Jedi
+75334-1,Obi-Wan Kenobi vs. Darth Vader,2022,408,Reign of the Empire
+75336-1,Inquisitor Transport Scythe,2022,924,Reign of the Empire
+75337-1,AT-TE Walker,2022,1082,Fall of the Jedi
+75338-1,Ambush on Ferrix,2022,679,Reign of the Empire
+75342-1,Republic Fighter Tank,2022,262,Fall of the Jedi
+7654-1,Droids Battle Pack,2007,102,Fall of the Jedi
+7655-1,Clone Troopers Battle Pack,2007,58,Fall of the Jedi
+7656-1,General Grievous Starfighter,2007,232,Fall of the Jedi
+7657-1,AT-ST,2007,244,Age of Rebellion
+7658-1,Y-wing Fighter,2007,454,Age of Rebellion
+7659-1,Imperial Landing Craft,2007,471,Age of Rebellion
+7660-1,Naboo N-1 Starfighter with Vulture Droid,2007,280,Fall of the Jedi
+7661-1,Jedi Starfighter with Hyperdrive Booster Ring,2007,575,Fall of the Jedi
+7662-1,Trade Federation MTT,2007,1330,Fall of the Jedi
+7663-1,Sith Infiltrator,2007,310,Fall of the Jedi
+7665-1,Republic Cruiser,2007,919,Fall of the Jedi
+7666-1,Hoth Rebel Base,2007,548,Age of Rebellion
+7669-1,Anakin's Jedi Starfighter,2008,153,Fall of the Jedi
+7670-1,Hailfire Droid and Spider Droid,2008,249,Fall of the Jedi
+7671-1,AT-AP Walker,2008,392,Fall of the Jedi
+7673-1,Magna Guard Starfighter,2008,431,Fall of the Jedi
+7674-1,V-19 Torrent,2008,471,Fall of the Jedi
+7675-1,AT-TE Walker,2008,798,Fall of the Jedi
+7676-1,Republic Attack Gunship,2008,1034,Fall of the Jedi
+7678-1,Droid Gunship,2008,329,Fall of the Jedi
+7679-1,Republic Fighter Tank,2008,592,Fall of the Jedi
+7680-1,The Twilight,2008,882,Fall of the Jedi
+7681-1,Separatist Spider Droid,2008,206,Fall of the Jedi
+7748-1,Corporate Alliance Tank Droid,2009,216,Fall of the Jedi
+7749-1,Echo Base,2009,155,Age of Rebellion
+7751-1,Ahsoka's Starfighter and Vulture Droid,2009,291,Fall of the Jedi
+7752-1,Count Dooku's Solar Sailer,2009,385,Fall of the Jedi
+7753-1,Pirate Tank,2009,372,Fall of the Jedi
+7754-1,Home One Mon Calamari Star Cruiser,2009,789,Age of Rebellion
+7868-1,Mace Windu's Jedi Starfighter,2011,309,Fall of the Jedi
+7869-1,Battle for Geonosis,2011,331,Fall of the Jedi
+7877-1,Naboo Starfighter,2011,318,Fall of the Jedi
+7879-1,Hoth Echo Base,2011,773,Age of Rebellion
+7913-1,Clone Trooper Battle Pack,2011,85,Fall of the Jedi
+7914-1,Mandalorian Battle Pack,2011,68,Fall of the Jedi
+7915-1,Imperial V-wing Starfighter,2011,139,Fall of the Jedi
+7929-1,The Battle of Naboo,2011,241,Fall of the Jedi
+7930-1,Bounty Hunter Assault Gunship,2011,389,Fall of the Jedi
+7931-1,T-6 Jedi Shuttle,2011,389,Fall of the Jedi
+7956-1,Ewok Attack,2011,166,Age of Rebellion
+7957-1,Sith Nightspeeder,2011,214,Fall of the Jedi
+7959-1,Geonosian Starfighter,2011,155,Fall of the Jedi
+7961-1,Darth Maul's Sith Infiltrator,2011,479,Fall of the Jedi
+7962-1,Anakin Skywalker and Sebulba's Podracers,2011,810,Fall of the Jedi
+7964-1,Republic Frigate,2011,1015,Fall of the Jedi
+7965-1,Millennium Falcon,2011,1254,Age of Rebellion
+8014-1,Clone Walker Battle Pack,2009,72,Fall of the Jedi
+8015-1,Assassin Droids Battle Pack,2009,94,Fall of the Jedi
+8016-1,Hyena Droid Bomber,2009,232,Fall of the Jedi
+8017-1,Darth Vader's TIE Fighter,2009,251,Age of Rebellion
+8018-1,Armored Assault Tank,2009,407,Fall of the Jedi
+8019-1,Republic Attack Shuttle,2009,636,Fall of the Jedi
+8036-1,Separatist Shuttle,2009,259,Fall of the Jedi
+8037-1,Anakin's Y-wing Starfighter,2009,570,Fall of the Jedi
+8038-1,The Battle of Endor,2009,890,Age of Rebellion
+8039-1,Venator-Class Republic Attack Cruiser,2009,1170,Fall of the Jedi
+8083-1,Rebel Trooper Battle Pack,2010,79,Age of Rebellion
+8084-1,Snowtrooper Battle Pack,2010,74,Age of Rebellion
+8085-1,Freeco Speeder,2010,177,Fall of the Jedi
+8086-1,Droid Tri-Fighter,2010,268,Fall of the Jedi
+8088-1,ARC-170 Starfighter,2010,396,Fall of the Jedi
+8089-1,Hoth Wampa Cave,2010,297,Age of Rebellion
+8091-1,Republic Swamp Speeder,2010,176,Fall of the Jedi
+8092-1,Luke's Landspeeder,2010,163,Age of Rebellion
+8093-1,Plo Koon's Jedi Starfighter,2010,175,Fall of the Jedi
+8095-1,General Grievous' Starfighter,2010,454,Fall of the Jedi
+8096-1,Emperor Palpatine's Shuttle,2010,592,Fall of the Jedi
+8097-1,Slave I,2010,573,Age of Rebellion
+8098-1,Clone Turbo Tank,2010,1141,Fall of the Jedi
+8128-1,Cad Bane's Speeder,2010,318,Fall of the Jedi
+8129-1,AT-AT Walker,2010,815,Age of Rebellion
+9488-1,Elite Clone Trooper and Commando Droid Battle Pack,2012,98,Fall of the Jedi
+9489-1,Endor Rebel Trooper and Imperial Trooper Battle Pack,2012,77,Age of Rebellion
+9490-1,Droid Escape,2012,137,Age of Rebellion
+9491-1,Geonosian Cannon,2012,132,Fall of the Jedi
+9492-1,TIE Fighter,2012,413,Age of Rebellion
+9493-1,X-wing Starfighter,2012,560,Age of Rebellion
+9494-1,Anakin's Jedi Interceptor,2012,300,Fall of the Jedi
+9495-1,Gold Leader's Y-wing Starfighter,2012,458,Age of Rebellion
+9496-1,Desert Skiff,2012,213,Age of Rebellion
+9498-1,Saesee Tiin's Jedi Starfighter,2012,244,Fall of the Jedi
+9499-1,Gungan Sub,2012,465,Fall of the Jedi
+9515-1,Malevolence,2012,1101,Fall of the Jedi
+9516-1,Jabba's Palace,2012,717,Age of Rebellion
+9525-1,Pre Vizsla's Mandalorian Fighter,2012,403,Fall of the Jedi
+9526-1,Palpatine's Arrest,2012,645,Fall of the Jedi
